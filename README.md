@@ -59,3 +59,55 @@ When it looks good, click "Proceed" to get to the next step.
 Datawrapper tries to automatically guess what chart you're looking for. Unfortunately, it doesn't always guess too well. Here's what it predicted I wanted for a chart.
 
 ![First chart](img/first_chart.png)
+
+A line chart doesn't make a lot of sense for this data. I want a ranking, not an time comparison. So I just switched it to the type of chart I wanted, a bar chart:
+
+![Bar chart](img/bar_chart.png)
+
+I encourage you to play around and try a bunch of different chart types so you know how they look, but for the most part, keep it simple. Our readers want to be able to glance at this chart fairly quickly and get an idea what's going on.
+
+If you have the _kind_ of chart you want but the _order_ just doesn't look right, try transposing the data — there's an option to do that in the bottom left. This one works just fine for me, so it's time to style it the way I like. Click Proceed to continue.
+
+##### Styling your chart
+
+Datawrapper tries to pick some styling options that work well across a wide variety of platforms. Here's what it looked like for my chart:
+
+![First style](img/first_style.png)
+
+Again, you can play around with the styling options, which are different for different types of charts. Here's my advice on design:
+
+1. See the "chart size" parameter underneath the chart? It's the dimensions — width and height. For stories, your width should be under 600 pixels. For slideshows, it should be around 640 or less. 
+2. Don't add too many colors — it gets confused and is difficult to design with nice colors. Plus, not all color coordination works for colorblind readers. It's better to convey your values with sizes, locations and labels.
+3. Similarly, your chart should stick to less than 15 "series" — categories, types, lines, etc. (In this case, it's zoos.) Don't try to put 50 different bars into a bar chart — pick the ten biggest values to display. You can always add an "Other" category if need be.
+
+_Nerd box: Want to up your visualization design game? [Here's](http://lenagroeger.s3.amazonaws.com/cuny-fall15/DesignClass5Pres.pdf) a good tutorial._
+
+In the end, I made a handful of changes. I put the bars in order from biggest to smallest, and aligned the text to the bars. Click proceed when you're ready.
+
+![Styled chart](img/styled_chart.png)
+
+##### Annotate your data
+
+The next section lets you add a title, description, and more. Here are the basic ways to add it in:
+
+![Annotated chart](img/annotations.png)
+
+You may want to take the chance to add a source or notes about your methodology or what the chart measures. Click proceed when you're ready.
+
+##### Design and publication
+
+After annotations, the next slide sets the overall template of your chart. My advice? Keep the default design. The other ones are rarely used. 
+
+![Overall design](img/overall_design.png)
+
+When you're ready, click "Publish" -- but you haven't yet published the chart. You'll be taken to the actual publication screen: 
+
+![Publish chart screen](img/publish_chart.png)
+
+If your chart looks good, you can go ahead and publish at that point. But your chart's not in the story yet. You'll see a link, to share with editors and such, and an embed code: 
+
+![Embed code](img/embed_code.png)
+
+Grab that embed code and insert it into the story the way you'd insert a Twitter link. 
+
+There you go! You've got a nice lil' chart. If you need more information, reach out to the data team or fool around with it.
