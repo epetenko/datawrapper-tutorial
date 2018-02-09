@@ -7,7 +7,7 @@ We use Datawrapper to create charts all the time at NJAM. But it can be difficul
 
 ### Part one: basic chart. 
 
-##### Get your data and clean it
+#### Get your data and clean it
 
 Datawrapper can handle a lot of data, but it can be a bit picky about how you enter the data. For this example, we're going to use a bit of data that's already fairly clean, an old sheet with data on the number of animals in New Jersey zoos: 
 
@@ -24,7 +24,7 @@ Here's the new, cleaned version:
 
 ![Cleaned dataset](img/cleaned_data.png)
 
-##### Put it into Datawrapper
+#### Put it into Datawrapper
 
 Once you've logged into Datawrapper, you start by clicking on the "New Chart" link. 
 
@@ -38,7 +38,7 @@ _Nerd note: Most of the time, that's all you'll need to do. But there's another 
 
 Data look good? Everything ready? Click "Upload and Continue" in the bottom right.
 
-##### Check your data
+#### Check your data
 
 Here's the point where we find out what Datawrapper thinks of your work. It'll tell you the column names and values, and color-code the columns based on what it thinks the data is — text, numbers, or dates. 
 
@@ -54,7 +54,7 @@ _Nerd note: Why can't I just add the dollar sign in Excel? It has to do with how
 
 When it looks good, click "Proceed" to get to the next step.
 
-##### Creating your chart
+#### Creating your chart
 
 Datawrapper tries to automatically guess what chart you're looking for. Unfortunately, it doesn't always guess too well. Here's what it predicted I wanted for a chart.
 
@@ -68,7 +68,7 @@ I encourage you to play around and try a bunch of different chart types so you k
 
 If you have the _kind_ of chart you want but the _order_ just doesn't look right, try transposing the data — there's an option to do that in the bottom left. This one works just fine for me, so it's time to style it the way I like. Click Proceed to continue.
 
-##### Styling your chart
+#### Styling your chart
 
 Datawrapper tries to pick some styling options that work well across a wide variety of platforms. Here's what it looked like for my chart:
 
@@ -86,7 +86,7 @@ In the end, I made a handful of changes. I put the bars in order from biggest to
 
 ![Styled chart](img/styled_chart.png)
 
-##### Annotate your data
+#### Annotate your data
 
 The next section lets you add a title, description, and more. Here are the basic ways to add it in:
 
@@ -94,7 +94,7 @@ The next section lets you add a title, description, and more. Here are the basic
 
 You may want to take the chance to add a source or notes about your methodology or what the chart measures. Click proceed when you're ready.
 
-##### Design and publication
+#### Design and publication
 
 After annotations, the next slide sets the overall template of your chart. My advice? Keep the default design. The other ones are rarely used. 
 
