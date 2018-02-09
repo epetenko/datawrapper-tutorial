@@ -11,7 +11,7 @@ We use Datawrapper to create charts all the time at NJAM. But it can be difficul
 
 Datawrapper can handle a lot of data, but it can be a bit picky about how you enter the data. For this example, we're going to use a bit of data that's already fairly clean, an old sheet with data on the number of animals in New Jersey zoos: 
 
-![Original datasheet](img/zoo_og_chart)
+![Original datasheet](img/zoo_og_chart.png)
 
 Here are some key things to check before you import your data:
 
@@ -22,17 +22,17 @@ Here are some key things to check before you import your data:
 
 Here's the new, cleaned version:
 
-![Cleaned dataset](img/cleaned_data)
+![Cleaned dataset](img/cleaned_data.png)
 
 ##### Put it into Datawrapper
 
 Once you've logged into Datawrapper, you start by clicking on the "New Chart" link. 
 
-![New chart](img/new_chart)
+![New chart](img/new_chart.png)
 
 There are two ways you can import data. You can copy and paste it directly from your spreadsheet. To do that, go to your Excel file, highlight _all_ of the cells you need and _only_ the cells you need, then paste them into the text box. You'll get something like this: 
 
-![Pasted data](img/paste_data)
+![Pasted data](img/paste_data.png)
 
 _Nerd note: Most of the time, that's all you'll need to do. But there's another option — you can upload a CSV file directly into Datawrapper. [This site](https://support.bigcommerce.com/articles/Public/What-is-a-CSV-file-and-how-do-I-save-my-spreadsheet-as-one) has an explanation of what a CSV file is and how to make one from an Excel spreadsheet. TL;DR -- make sure to save the csv as a separate file rather than over the existing Excel file, or you might lose some of your fancy Excel additions._
 
@@ -44,14 +44,18 @@ Here's the point where we find out what Datawrapper thinks of your work. It'll t
 
 If you want to add on dollar signs or percents, this is the place to do it. Click on the checkbox at the top of the column you want to change.
 
-![Interpreted data](img/interpreted_data)
+![Interpreted data](img/interpreted_data.png)
 
 You can divide or round your numbers, which can be helpful if one of your values is 157.68492. You can also add a "$" in the first prepend/append box, or add a "%" into the second. This dataset doesn't need it, but just for example, here's what it looks like:
 
-![With a dollar sign](img/dollar_sign)
+![With a dollar sign](img/dollar_sign.png)
 
 _Nerd note: Why can't I just add the dollar sign in Excel? It has to do with how Datawrapper "reads" the data when you enter it in. When the computer reaches a value, it checks for numerical characters and non-numeric characters, and if it finds a non-numeric character, it labels that value as text. Once it's loaded in, the computer understands the dollar sign is just a label on top of a number. Got that? Whew! You're doing great!_
 
+When it looks good, click "Proceed" to get to the next step.
+
 ##### Creating your chart
 
+Datawrapper tries to automatically guess what chart you're looking for. Unfortunately, it doesn't always guess too well. Here's what it predicted I wanted for a chart.
 
+![First chart](img/first_chart.png)
