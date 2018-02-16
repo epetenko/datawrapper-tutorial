@@ -106,3 +106,9 @@ The idea is that the column names stand for what will show up when the person cl
 Here's a gif to show you how I did it: 
 
 ![Tooltip gif](img/tooltip.gif)
+
+#### The rest
+
+The annotation and publication parameters are pretty much the same as charts. Here's the final result: 
+
+![Final result](img/median_income_final.png)
