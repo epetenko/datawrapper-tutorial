@@ -112,4 +112,4 @@ Grab that embed code and insert it into the story the way you'd insert a Twitter
 
 There you go! You've got a nice lil' chart. If you need more information, reach out to the data team or fool around with it.
 
-**Learned something? Want to take it to the next level? Check out [Part 2: Maps.](../Part_2.md)
+**Learned something? Want to take it to the next level? Check out [Part 2: Maps.](../Part_2.md)**
