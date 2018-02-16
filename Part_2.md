@@ -5,11 +5,11 @@
 
 We use Datawrapper to create charts all the time at NJAM. But it can be difficult to pick up, especially with odd directions and lots of detailed options. Here's a primer to get you up to speed on Datawrapper
 
-### Part two: maps, maps, maps.
+## Part two: maps, maps, maps.
 
 Maps are more advanced to use than charts, but Datawrapper makes them as easy as possible. You can make county, Congressional district, and state-by-state national maps (but not town maps). If you've gotten comfortable with charts and are ready to move on to the next step, here's how you can do it.
 
-#### Get your data and add some geography to it.
+### Get your data and add some geography to it.
 
 Perhaps the trickiest part about mapmaking comes before you even log into Datawrapper: Getting the geographic codes and attaching them to your data. You can't just plug in a list of addresses and expect DW to work with them! There are two kinds of codes you can use:
 
@@ -24,7 +24,7 @@ You can find this data under County_income.csv. I've also included a dataset tha
 
 As mentioned in the previous tutorial, make sure your data is clean, every column is in the right format and there are no missing rows or columns. This time, you also might want to make sure the FIPS codes are the first column in the data, and the main value you want to emphasize in the second column. You'll find out why in a bit.
 
-#### Selecting a map
+### Selecting a map
 
 Once you've logged into Datawrapper, create a new map: 
 
@@ -49,7 +49,7 @@ In case you're looking, the United States one is a little hard to find, it's und
 
 After you've selected the one you want, click to proceed to the next section.
 
-#### Adding your data
+### Adding your data
 
 You have two options here. The first is to copy and paste your data into the boxes next to the FIPS code. 
 
@@ -81,7 +81,7 @@ I corrected it to show the income values:
 
 You've got a map! Time to move on to the next step: Prettying it up.
 
-#### Styling and detailing your map
+### Styling and detailing your map
 
 Datawrapper tries to auto-style your map for the most part. Here's what it got for me: 
 
@@ -97,7 +97,7 @@ My advice on design:
 2. A legend is a good way to give readers a general impression of the data range. Don't go overboard on adding details to it -- you can add them to the top or bottom of the chart. 
 3. Labels are usually too busy and overlapping. It's better to use tooltips, which I will explain below.
 
-#### Adding a tooltip
+### Adding a tooltip
 
 The tooltip design is a little confusing. What are these column names doing there? And what's with the brackets?
 
@@ -107,7 +107,7 @@ Here's a gif to show you how I did it:
 
 ![Tooltip gif](img/tooltip.gif)
 
-#### The rest
+### The rest
 
 The annotation and publication parameters are pretty much the same as charts. Here's the final result: 
 
