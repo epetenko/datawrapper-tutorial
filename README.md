@@ -7,7 +7,7 @@ We use Datawrapper to create charts all the time at NJAM. But it can be difficul
 
 ## Links:
 
-[Part 0: Excel training](https://github.com/epetenko/datawrapper-tutorial/blob/master/Prequel.md)
+[Part 0: Excel training](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_0.md)
 
 [Part 0 data](https://github.com/epetenko/datawrapper-tutorial/blob/master/Zoo_Total.csv)
 
