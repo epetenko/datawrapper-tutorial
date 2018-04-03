@@ -8,9 +8,13 @@ We use Datawrapper to create charts all the time at NJAM. But it can be difficul
 ## Links:
 
 [Part 0: Excel training](https://github.com/epetenko/datawrapper-tutorial/blob/master/Prequel.md)
+
 [Part 0 data](https://github.com/epetenko/datawrapper-tutorial/blob/master/Zoo_Total.csv)
+
 [Part 1: Basic chart](https://github.com/epetenko/datawrapper-tutorial)
+
 [Part 2: Mapping](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_2.md)
+
 
 
 ## Part one: basic chart. 
