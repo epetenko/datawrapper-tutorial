@@ -97,6 +97,14 @@ Sometimes you don't want the formula's cell reference to change, but just want t
 
 For now, you don't need to worry about it.
 
+### Create a table, sorting and filtering
 
+If your dataset is in a clean, grid format, it can be helpful to make it into a table. Making a table means that Excel automatically recognizes the range of your data, making it easier to perform little Excel tricks as you go along.
 
-**Learned something? Want to take it to the next level? Check out [Part 2: Maps.](../Part_2.md)**
+To create table, select a cell that is in the right range of your data. (I like to select A1). Then go to the Home tab and click on "Format as Table." It'll give you a couple style options; I'd suggest picking the plainest one, so you don't get overwhelmed by backgrounds and text colors.
+
+![Formatting a table](img/table_formatting.png)
+
+After you've created the table, you'll notice that a few things have changed. For one, your formulas will automatically fill to the bottom of the dataset. You'll also notice a few small arrows next to each column name. That will help you with sorting and filtering.
+
+**Learned something? Want to take it to the next level? Check out [Part 1: Basic Chart.](../Part_1.md)**
