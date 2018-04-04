@@ -107,4 +107,10 @@ To create table, select a cell that is in the right range of your data. (I like 
 
 After you've created the table, you'll notice that a few things have changed. For one, your formulas will automatically fill to the bottom of the dataset. You'll also notice a few small arrows next to each column name. That will help you with sorting and filtering.
 
+Try clicking on one of those arrows. You'll find something that pops up like this: 
+
+![sorting and filtering](img/sorting_filtering_button.png)
+
+You can sort the table by that column by clicking on the ascending or descending buttons. You can also filter the dataset by clicking on the check marks next to the different values.
+
 **Learned something? Want to take it to the next level? Check out [Part 1: Basic Chart.](../Part_1.md)**
