@@ -167,7 +167,7 @@ A couple of housekeeping notes about pivot tables:
 
 A handful of other places to look for help:
 
-- [The basics of Excel selections]((https://docs.google.com/spreadsheets/d/1pEJ8tFpMvRKaztSl-OKJBNOWzu9SPDOcmcp2eGm-fOQ/edit?usp=sharing). It's referenced above, but just to reiterate: This will be a huge help if you need to understand what A1 is or how to drag some text.
+- [The basics of Excel selections](https://docs.google.com/spreadsheets/d/1pEJ8tFpMvRKaztSl-OKJBNOWzu9SPDOcmcp2eGm-fOQ/edit?usp=sharing) . It's referenced above, but just to reiterate: This will be a huge help if you need to understand what A1 is or how to drag some text.
 - Mary Jo Webster's [basic excel tutorial](http://mjwebster.github.io/DataJ/BeginnerExcel.html), [pivot tables tutorial](http://mjwebster.github.io/DataJ/pivottables.html) and [Excel Magic tutorial](https://mjwebster.github.io/DataJ/tipsheets/ExcelMagic.pdf) on her data journalism [website](http://mjwebster.github.io/DataJ/). These are resources for a college course she teaches, but it's helpful for dealing with the dirty data we get from records requests. If you need to know how to clean a date or take the whitespace out of a cell, this is a great reference.
 - [NICAR tutorials, slides and more](http://blog.chryswu.com/2018/01/23/nicar18-slides-links-tutorials/). NICAR is the national organization for data journalists, which hosts a yearly conference that includes plenty of training.
 
