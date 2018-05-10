@@ -29,7 +29,7 @@ Keep in mind that csv files don't save formulas or other fancy things you might 
 Time to open up that dataset. First off, scroll through and notice some basic things that could mess up your calculations:
 
 1. Are all the columns labeled correctly?
-2. Are the column names in the top row? Are the column names only one row, or are they multiple row?
+2. Are the column names in the top row? Are the column names only one row, or are they multiple rows?
 3. Are all the rows aligned to the right column? Are there any "dangling" cells?
 4. If there are numbers, are the numbers aligned to the right, like they should be? Usually Excel puts numbers on the right of the cell, and text on the left. If that's screwed up, you may have a number being read as a text value.
 5. Are there blank cells? Cells with negative numbers? Cells with things like #N/A written in them?
@@ -112,5 +112,57 @@ Try clicking on one of those arrows. You'll find something that pops up like thi
 ![sorting and filtering](img/sorting_filtering_button.png)
 
 You can sort the table by that column by clicking on the ascending or descending buttons. You can also filter the dataset by clicking on the check marks next to the different values.
+
+### Pivot tables
+
+Pivot tables are the tool with probably the biggest return for the amount of learning you'll need to understand them. That being said, they can seem odd and unintuitive at first. The key is to play around with things for a bit until things start being shaped the way you want.
+
+Pivot tables are sometimes called "reshaping" tools. That's because they are designed to combine and divide your datasets, especially to let you summarize your data. That can be helpful if you want to know the totals of a category, or want to organize your data by county and town, for example.
+
+To start working with pivot tables, select a cell in your data and go to the Insert tab. Pivot table will be the first option in the tab, and an automated popup will guess where your data lives. If that looks good, click ok.
+
+![Pivot table creator](img/pivot_table_creator.png)
+
+A new spreadsheet will pop up with a Pivot table tab and a "field list", like this.
+
+![Pivot table template](img/pivot_table_template.png)
+
+The field list includes each of your column names — all of the data you can choose to add or ignore. To start analyzing a field, just click on the box next to the name. I'm interested in finding out how many animals there are in each zoo, so I clicked on the "Zoo" column.
+
+The bottom of the field list has four options: Filters, Columns, Rows and Values. Rows are the field you want to appear in the row of your pivot table. Columns are the field you want to make into the columns of your pivot table. Values are the numbers squeezed in between. Excel guessed that I wanted zoos as a value, and then guessed I wanted a count of all the times zoos appeared in the dataset...
+
+![First field added](img/first_field.png)
+
+But that's not the case! I want the totals for each _individual_ zoo, right? In other words, I want to make each zoo its own row in my pivot table. To do that, I simply drag the thing under "Values" to be under "Rows."
+
+![Pivot rows](img/pivot_rows.png)
+
+Now we need numbers, right? So let's try the field that contains numbers. Click on "Total" and make sure it's under the values section.
+
+![Pivot with numbers](img/pivot_numbers.png)
+
+You've got it! Now we can see that Six Flags had the most animals of any zoo.
+
+This is only one of many ways to make a pivot table. There are so many ways to slice and dice this data, I can't really begin to share them. But here are some example screenshots:
+
+With columns:
+![Pivot example 1](img/pivot_example_1.png)
+
+With multiple layers:
+![Pivot example 2](img/pivot_example_2.png)
+
+By changing "Sum" to "Average":
+![Pivot example 3](img/pivot_example_3.png)
+
+A couple of housekeeping notes about pivot tables:
+
+1. If the field list disappears, just click on a cell in the pivot table again.
+2. To change the way a value is calculated -- "Sum" to "Average", for example -- click on the little _i_ next to the name of the field.
+3. To get rid of a field, uncheck it or drag it outside of Excel.
+4. Pivot tables don't automatically refresh when your data changes — there's a refresh button in the pivot table tab, but you should also double-check to make sure it caught all your new data. You can always create another one if it's not working.
+5. To sort a pivot table, click into the field you want to sort, go to the Data tab, and click on one of the sort buttons.
+6. Formulas work a little weird. It's better to just copy and paste the pivot table as values somewhere else in your sheet.
+
+Best of luck, and happy sheeting!
 
 **Learned something? Want to take it to the next level? Check out [Part 1: Basic Chart.](../Part_1.md)**
