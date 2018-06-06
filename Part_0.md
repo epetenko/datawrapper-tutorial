@@ -16,7 +16,7 @@ This data is based on New Jersey's inventory of zoo animals. The original data c
 
 ![Original pdf](img/zoo_pdf.png)
 
-I took it from the PDFs with a tool called Tabula and created separate datasets for each zoo. Then I combined all of those datasets into one. That's the [Zoo_Total.csv](../Zoo_Total.csv).
+I took it from the PDFs with a tool called Tabula and created separate datasets for each zoo. Then I combined all of those datasets into one. That's the [Zoo_Total.csv](https://raw.githubusercontent.com/epetenko/datawrapper-tutorial/master/Zoo_Total.csv).
 
 Before you even start on the Excel file, I want to show you what the dataset looks like to the computer. You can see that pretty easily with a csv file -- it's just a text file with some commas thrown in. Try right clicking on the file and telling it to open in Text Edit, Notepad or a different text editor. It should look something like this:
 
