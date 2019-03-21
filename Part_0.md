@@ -97,6 +97,14 @@ Sometimes you don't want the formula's cell reference to change, but just want t
 
 For now, you don't need to worry about it.
 
+A couple other formulas that tend to be useful:
+
+- `=TRIM()` will remove any extra spaces from a column.
+- `LEFT()` and `RIGHT()` will grab the first x characters of a cell, in case you need the state from `Edison, NJ`, for example.
+- `=COUNT()` will count the number of non-blank cells in a table. `=COUNTIF()` will count cells that meet certain criteria, like if they say "NJ": `=COUNTIF(A:A, *NJ*)`
+- You can also combine different cells with `&`, like `Edison` and `NJ` can be combined with `=A2&", "&B2"` to create `Edison, NJ`
+
+
 ### Create a table, sorting and filtering
 
 If your dataset is in a clean, grid format, it can be helpful to make it into a table. Making a table means that Excel automatically recognizes the range of your data, making it easier to perform little Excel tricks as you go along.
