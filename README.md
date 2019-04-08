@@ -3,7 +3,13 @@
 ###### Using Datawrapper.de to create charts and maps. 
 ------
 
-We use Datawrapper to create charts all the time at NJAM. But it can be difficult to pick up, especially with odd directions and lots of detailed options. Here's a primer to get you up to speed on Datawrapper
+We use Datawrapper to create charts all the time at NJAM. But it can be difficult to pick up, especially with odd directions and lots of detailed options. Here's a primer to get you up to speed on Datawrapper.
+
+[Part 1 data](https://raw.githubusercontent.com/epetenko/datawrapper-tutorial/master/Excel_zoo_data.csv)
+
+[Part 2: Datawrapper charts](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_2_chart.md)
+
+[Part 2 data](https://raw.githubusercontent.com/epetenko/datawrapper-tutorial/master/Datawrapper_zoo_data.csv)
 
 ## Part 1: Prequel to Datawrapper training - Excel basics. 
 
