@@ -5,7 +5,7 @@
 
 We use Datawrapper to create charts all the time at NJAM. But it can be difficult to pick up, especially with odd directions and lots of detailed options. Here's a primer to get you up to speed on Datawrapper
 
-## Part 0: Prequel to Datawrapper training - Excel basics. 
+## Part 1: Prequel to Datawrapper training - Excel basics. 
 
 You may have opened an Excel file, maybe played around with copying and pasting and other things. But analysis is a bit more elusive. Here's a tutorial to get you started on some common Excel tips.
 
