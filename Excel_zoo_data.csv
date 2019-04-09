@@ -1,640 +1,640 @@
-Category,Endangered?,Dangerous?,Total,First_name,Second_name,Zoo_name
-R,No,     Yes,0.0.2,AMERICAN,ALLIGATOR,Adventure_aquarium
-B,No,No,1.0.0,RED-LORED,AMAZON,Adventure_aquarium
-B,No,No,0.1.0,YELLOW-NAPED,AMAZON,Adventure_aquarium
-M,No,Yes,0.1.0,LARGE HAIRY,ARMADILLO,Adventure_aquarium
-M,No,Yes,1.0.0,SOUTHERN THREE-BANDED,ARMADILLO,Adventure_aquarium
-A,No,No,5.5.372,,AXOLOTL,Adventure_aquarium
-R,No,Yes,0.1.0,CUVIER'S DWARF,CAIMAN,Adventure_aquarium
-M,No,No,0.0.2,,CHINCHILLA,Adventure_aquarium
-R,No,Yes,0.0.2,AFRICAN DWARF,CROCODILE,Adventure_aquarium
-R,No,No,0.0.1,AUSTRALIAN BEARDED,DRAGON,Adventure_aquarium
-A,No,No,0.0.1,AFRICAN BULL,FROG,Adventure_aquarium
-A,No,No,0.0.8,AMAZON MILK,FROG,Adventure_aquarium
-A,No,No,0.0.2,AMAZONIAN POISON DART,FROG,Adventure_aquarium
-A,No,No,0.0.1,ARGENTINE HORNED,FROG,Adventure_aquarium
-A,No,No,0.0.6,BLUE & BLACK POISON DART,FROG,Adventure_aquarium
-A,No,No,0.0.3,BORNEAN-EARED,FROG,Adventure_aquarium
-A,No,No,0.0.13,BULL,FROG,Adventure_aquarium
-A,No,No,0.0.2,CARPENTER,FROG,Adventure_aquarium
-A,No,No,0.0.4,CINNAMON TREE,FROG,Adventure_aquarium
-A,No,No,0.0.3,CLOWN TREE,FROG,Adventure_aquarium
-A,No,No,0.0.2,DYEING POISON DART,FROG,Adventure_aquarium
-A,No,No,0.0.2,GOLDEN POISON DART,FROG,Adventure_aquarium
-A,No,No,0.0.3,GRAY TREE,FROG,Adventure_aquarium
-A,No,No,0.0.14,GREEN & BLACK POISON,FROG,Adventure_aquarium
-A,No,No,0.0.1,HOURGLASS,FROG,Adventure_aquarium
-A,No,No,0.0.16,RED-EYED TREE,FROG,Adventure_aquarium
-A,No,No,0.0.2,STRAWBERRY POISON DART,FROG,Adventure_aquarium
-A,No,No,0.0.5,VIETNAMESE MOSSY,FROG,Adventure_aquarium
-A,No,No,0.0.2,WAXY MONKEY,FROG,Adventure_aquarium
-A,No,No,0.0.7,YELLOW & BLACK POISON DART,FROG,Adventure_aquarium
-M,No,No,1.0.0,AFRICAN PYGMY,HEDGEHOG,Adventure_aquarium
-M,No,Yes,0.2.0,,HIPPOPOTAMUS,Adventure_aquarium
-B,No,No,0.0.1,LAUGHING,KOOKABURRA,Adventure_aquarium
-R,No,No,0.0.1,FRILLED,LIZARD,Adventure_aquarium
-B,No,No,1.0.0,BLUE & GOLD,MACAW,Adventure_aquarium
-B,No,No,1.0.0,RED-FRONTED,MACAW,Adventure_aquarium
-A,No,No,0.0.3,EMPEROR,NEWT,Adventure_aquarium
-B,No,No,9.8.7,AFRICAN,PENGUIN,Adventure_aquarium
-B,No,No,6.2.0,LITTLE BLUE,PENGUIN,Adventure_aquarium
-M,No,No,2.0.0,AFRICAN-CRESTED,PORCUPINE,Adventure_aquarium
-M,No,No,0.0.1,PREHENSILE-TAILED,PORCUPINE,Adventure_aquarium
-R,No,No,0.0.1,ALBINO CORN,SNAKE,Adventure_aquarium
-R,No,No,0.0.2,NORTHERN DIAMONDBACK,TERRAPIN,Adventure_aquarium
-A,No,No,0.0.1,FIREBELLY,TOAD,Adventure_aquarium
-A,No,No,0.0.6,SURINAM,TOAD,Adventure_aquarium
-R,No,No,0.0.1,RED-FOOTED,TORTOISE,Adventure_aquarium
-R,No,No,0.0.2,STAR,TORTOISE,Adventure_aquarium
-R,No,No,0.0.1,YELLOW-FOOTED,TORTOISE,Adventure_aquarium
-R,No,No,0.0.5,COMMON SNAKENECK,TURTLE,Adventure_aquarium
-R,Yes,No,1.1.0,GREEN SEA,TURTLE,Adventure_aquarium
-R,No,No,0.0.1,HELMETED,TURTLE,Adventure_aquarium
-R,Yes,No,0.1.2,LOGGERHEAD SEA,TURTLE,Adventure_aquarium
-R,No,No,0.0.2,MATAMATA,TURTLE,Adventure_aquarium
-R,No,No,0.0.1,ORNATE BOX,TURTLE,Adventure_aquarium
-R,No,No,0.0.2,PAINTED WOOD,TURTLE,Adventure_aquarium
-R,No,No,1.1.0,SPINY SOFT-SHELLED,TURTLE,Adventure_aquarium
-R,No,No,0.0.2,THREE-STRIPED MUD,TURTLE,Adventure_aquarium
-R,No,Yes,2.1.0,AMERICAN,ALLIGATOR,Bergen_county_zoo
-M,No,No,0.1.0,GIANT,ANTEATER,Bergen_county_zoo
-A,No,No,0.0.6,,AXOLOTL,Bergen_county_zoo
-M,No,No,.2.0,,BETTONG,Bergen_county_zoo
-M,Yes,Yes,0.1.0,,BOBCAT,Bergen_county_zoo
-M,No,No,2.0.0,,CAPYBARA,Bergen_county_zoo
-M,No,No,1.0.0,,CHINCHILLA,Bergen_county_zoo
-R,No,No,2.2.0,,CHUCKWALLA,Bergen_county_zoo
-M,No,No,0.3.0,WHITE-NOSED,COATIMUNDI,Bergen_county_zoo
-B,No,No,1.1.0,ANDEAN,CONDOR,Bergen_county_zoo
-B,No,No,1.0.0,COMMON,CROW,Bergen_county_zoo
-M,No,No,2.2.0,BROCKET,DEER,Bergen_county_zoo
-M,No,Yes,0.0.19,BLACK-TAILED PRAIRIE,DOG,Bergen_county_zoo
-B,No,No,0.2.0,RING-NECKED,DOVE,Bergen_county_zoo
-R,No,No,1.1.0,BEARDED,DRAGON,Bergen_county_zoo
-B,No,No,1.0.0,NORTH AMERICAN WOOD,DUCK,Bergen_county_zoo
-B,No,No,0.0.2,BLACK-BILLED WHISTLING,DUCKS,Bergen_county_zoo
-B,Yes,No,1.2.0,BALD,EAGLE,Bergen_county_zoo
-B,No,No,1.0.0,GREAT,EGRET,Bergen_county_zoo
-B,No,No,0.1.1,SNOWY,EGRET,Bergen_county_zoo
-M,No,No,1.1.0,AMERICAN,ELK,Bergen_county_zoo
-A,No,No,0.0.3,BI-COLORED POISON DART,FROG,Bergen_county_zoo
-A,No,No,0.0.3,BLUE & YELLOW DART,FROG,Bergen_county_zoo
-A,No,No,0.0.6,GREEN & BLACK DART,FROG,Bergen_county_zoo
-A,No,No,0.0.7,GULFODULCEAN DART,FROG,Bergen_county_zoo
-A,No,No,0.0.7,MISSISSIPPI GOPHER,FROG,Bergen_county_zoo
-A,No,No,0.0.1,ORNATE HORNED,FROG,Bergen_county_zoo
-R,No,No,0.0.2,NEW CALEDONIAN CRESTED,GECKO,Bergen_county_zoo
-B,No,No,0.3.0,GREYLAG,GOOSE,Bergen_county_zoo
-M,No,No,2.1.0,AFRICAN (4-TOED),HEDGEHOG,Bergen_county_zoo
-B,No,No,1.0.0,BLACK-CROWNED NIGHT,HERON,Bergen_county_zoo
-B,No,No,1.2.0,SCARLET,IBIS,Bergen_county_zoo
-B,No,No,1.2.0,RED,JUNGLEFOWL,Bergen_county_zoo
-B,No,No,2.0.0,LAUGHING,KOOKABURRA,Bergen_county_zoo
-M,No,Yes,1.0.0,MOUNTAIN,LION,Bergen_county_zoo
-R,No,No,3.0.0,BLUE SPINY,LIZARD,Bergen_county_zoo
-B,No,No,0.1.0,BLUE & YELLOW,MACAW,Bergen_county_zoo
-B,No,No,0.1.0,HYACINTH,MACAW,Bergen_county_zoo
-B,No,No,0.1.0,SCARLET,MACAW,Bergen_county_zoo
-M,No,Yes,1.3.0,BLACK-HANDED SPIDER,MONKEY,Bergen_county_zoo
-M,No,Yes,3.2.0,GOELDI'S,MONKEY,Bergen_county_zoo
-A,No,No,0.0.5,ALLIGATOR,NEWT,Bergen_county_zoo
-M,No,Yes,1.1.0,,OCELOT,Bergen_county_zoo
-B,No,No,0.1.0,BARN,OWL,Bergen_county_zoo
-B,No,No,0.0.2,SCREECH,OWL,Bergen_county_zoo
-B,No,No,1.1.0,SNOWY,OWL,Bergen_county_zoo
-B,No,No,1.1.0,SPECTACLED,OWL,Bergen_county_zoo
-M,No,No,2.0.0,EUROPEAN,POLECAT,Bergen_county_zoo
-M,No,No,1.0.0,NORTH AMERICAN,PORCUPINE,Bergen_county_zoo
-R,No,No,0.0.1,BALL [ROYAL],PYTHON,Bergen_county_zoo
-M,No,No,2.1.0,EUROPEAN,RABBIT,Bergen_county_zoo
-M,No,Yes,1.1.0,LINNE'S TWO-TOED,SLOTH,Bergen_county_zoo
-R,Yes,No,0.0.2,CORN [RED RAT],SNAKE,Bergen_county_zoo
-R,No,No,0.0.1,EVERGLADES RAT,SNAKE,Bergen_county_zoo
-R,No,No,0.0.1,GREY RAT,SNAKE,Bergen_county_zoo
-R,No,No,0.0.1,YELLOW RAT,SNAKE,Bergen_county_zoo
-B,No,No,2.1.1,ROSEATE,SPOONBILL,Bergen_county_zoo
-M,No,No,0.1.0,,SPRINGHAAS,Bergen_county_zoo
-M,No,Yes,5.2.1,COTTON-TOP,TAMARIN,Bergen_county_zoo
-M,No,Yes,4.0.0,GOLDEN LION,TAMARIN,Bergen_county_zoo
-M,No,No,1.1.0,BAIRD'S,TAPIR,Bergen_county_zoo
-A,No,No,0.6.0,PUERTO RICAN CRESTED,TOAD,Bergen_county_zoo
-R,No,No,0.0.1,CENTRAL ASIAN,TORTOISE,Bergen_county_zoo
-R,No,No,1.4.1,RED-FOOTED,TORTOISE,Bergen_county_zoo
-R,No,No,1.1.0,YELLOW-FOOTED,TORTOISE,Bergen_county_zoo
-B,No,No,1.0.0,CHESTNUT-MANDIBLED,TOUCAN,Bergen_county_zoo
-R,No,No,2.1.0,EASTERN BOX,TURTLE,Bergen_county_zoo
-R,No,No,0.0.1,EASTERN MUD,TURTLE,Bergen_county_zoo
-R,No,No,0.0.4,EASTERN PAINTED,TURTLE,Bergen_county_zoo
-R,No,No,0.1.1,FALSE MAP,TURTLE,Bergen_county_zoo
-R,No,No,2.0.25,RED-EARED SLIDER,TURTLE,Bergen_county_zoo
-R,No,No,0.0.3,RIVER COOTER,TURTLE,Bergen_county_zoo
-R,No,No,2.1.5,SPOTTED,TURTLE,Bergen_county_zoo
-R,No,No,0.1.0,WOOD,TURTLE,Bergen_county_zoo
-R,No,Yes,1.1.0,AMERICAN,ALLIGATOR,Cape_may
-B,No,No,1.0.0,YELLOW-HEADED,AMAZON,Cape_may
-A,No,No,0.0.6,,AXOLOTL,Cape_may
-B,No,No,1.0.0,FAIRY,BLUEBIRD,Cape_may
-M,Yes,Yes,1.2.0,,BOBCAT,Cape_may
-M,No,No,1.1.0,,BONGO,Cape_may
-M,No,No,0.1.0,ARABIAN,CAMEL,Cape_may
-M,No,No,0.1.0,,CAPYBARA,Cape_may
-B,No,No,0.0.1,,CARACARA,Cape_may
-M,No,Yes,2.0.0,,CHEETAH,Cape_may
-M,No,No,0.0.1,,CHINCHILLA,Cape_may
-M,No,No,1.0.0,BROWN NOSED,COATI,Cape_may
-B,No,No,1.0.0,SALMON-CRESTED,COCKATOO,Cape_may
-R,No,No,0.0.1,MEXICAN ROSY BOA,CONSTRICTOR,Cape_may
-B,No,No,0.0.1,SUN,CONURE,Cape_may
-B,No,No,1.2.0,AFRICAN-CROWNED,CRANE,Cape_may
-B,No,No,1.2.0,FLORIDA SANDHILL,CRANE,Cape_may
-B,No,No,0.1.0,GREY-CAPPED EMERALD,DOVE,Cape_may
-B,No,No,0.1.0,MAGNIFICENT FRUIT,DOVE,Cape_may
-B,No,No,0.1.0,YELLOW-BREASTED GROUND,DOVE,Cape_may
-R,No,No,0.0.1,INLAND BEARDED,DRAGON,Cape_may
-B,No,No,0.0.2,CATTLE,EGRET,Cape_may
-M,No,No,0.1.0,AMERICAN,ELK,Cape_may
-B,No,No,0.0.2,AMERICAN,FLAMINGO,Cape_may
-B,No,No,1.1.0,GREATER,FLAMINGO,Cape_may
-A,No,No,0.0.1,BLUE POISON ARROW,FROG,Cape_may
-A,No,No,0.0.2,DYING POISON ARROW,FROG,Cape_may
-A,No,No,0.0.1,GREEN & BLACK POISON DART,FROG,Cape_may
-A,Yes,No,0.0.2,GREY TREE,FROG,Cape_may
-A,No,No,0.0.3,LEOPARD,FROG,Cape_may
-A,No,No,0.0.1,MADAGASCAR GOLDEN,FROG,Cape_may
-A,No,No,0.0.5,PANAMANIAN GOLDEN,FROG,Cape_may
-A,No,No,0.0.6,RED-EYED TREE,FROG,Cape_may
-A,No,No,0.0.1,WHITE'S TREE,FROG,Cape_may
-B,No,No,0.0.1,COMMON,GALLINULE,Cape_may
-R,No,No,0.1.1,LEOPARD,GECKO,Cape_may
-R,No,No,1.1.1,STANDING DAY,GECKO,Cape_may
-M,No,No,1.2.0,RETICULATED,GIRAFFE,Cape_may
-B,No,No,0.1.0,BAR-HEADED,GOOSE,Cape_may
-B,No,No,0.1.0,EGYPTIAN,GOOSE,Cape_may
-B,No,No,0.1.0,LESSER WHITE-FRONTED,GOOSE,Cape_may
-M,No,No,3.0.0,PATAGONIAN,HARE,Cape_may
-B,No,No,1.0.0,EASTERN RED-TAILED,HAWK,Cape_may
-B,No,No,0.1.0,HARRIS/BAY WING,HAWK,Cape_may
-M,No,No,0.0.1,,HEDGEHOG,Cape_may
-B,No,No,0.0.1,BLACK-CROWNED NIGHT,HERON,Cape_may
-B,No,No,1.0.0,BOAT-BILLED,HERON,Cape_may
-B,No,No,1.0.0,BLACK-HEADED,IBIS,Cape_may
-B,No,No,0.0.3,SACRED,IBIS,Cape_may
-B,No,No,5.5.0,SCARLET,IBIS,Cape_may
-R,No,No,1.2.0,RHINOCEROUS,IGUANA,Cape_may
-B,No,No,0.1.1,GIANT,KINGFISHER,Cape_may
-B,No,No,0.0.2,MASKED,LAPWING,Cape_may
-B,No,No,0.0.1,SPUR-WINGED,LAPWING,Cape_may
-M,No,Yes,4.2.0,RING-TAILED,LEMUR,Cape_may
-M,No,Yes,0.1.0,,LEOPARD,Cape_may
-M,No,Yes,1.1.0,SNOW,LEOPARD,Cape_may
-M,No,Yes,1.1.0,,LION,Cape_may
-R,No,No,0.0.3,BLUE SPINY,LIZARD,Cape_may
-R,No,No,0.0.1,DESERT SPINY,LIZARD,Cape_may
-R,No,No,0.0.1,GLASS,LIZARD,Cape_may
-R,No,Yes,0.0.1,MEXICAN BEADED,LIZARD,Cape_may
-R,No,No,1.0.0,TEGU,LIZARD,Cape_may
-B,No,No,1.1.0,BLUE & GOLD,MACAW,Cape_may
-B,No,No,1.1.0,HYACINTH,MACAW,Cape_may
-B,No,No,0.0.1,SCARLET,MACAW,Cape_may
-M,No,Yes,1.0.0,BLACK-TUFTED,MARMOSET,Cape_may
-M,No,Yes,1.1.0,COMMON,MARMOSET,Cape_may
-R,No,No,0.0.1,MERTEN'S WATER,MONITOR,Cape_may
-M,No,Yes,1.2.0,BLACK HOWLER,MONKEY,Cape_may
-M,No,Yes,2.1.0,DE BRAZZA'S,MONKEY,Cape_may
-R,No,Yes,0.0.1,GILA,MONSTER,Cape_may
-M,No,No,1.1.0,REEVE'S,MUNTJAC,Cape_may
-A,No,No,0.0.4,IBERIAN-RIBBED,NEWT,Cape_may
-A,No,No,0.0.4,RED-SPOTTED,NEWT,Cape_may
-M,No,No,4.2.0,SCIMITAR-HORNED,ORYX,Cape_may
-B,No,No,0.0.1,BARRED,OWL,Cape_may
-B,No,No,0.1.0,COMMON BARN,OWL,Cape_may
-B,No,No,1.0.0,GREAT-HORNED,OWL,Cape_may
-B,No,No,1.0.0,SNOWY,OWL,Cape_may
-M,No,Yes,1.1.0,RED,PANDA,Cape_may
-B,No,No,0.1.0,BLUE-CROWNED,PARROT,Cape_may
-B,No,No,0.0.1,WHITE-CROWNED,PARROT,Cape_may
-B,No,No,1.1.0,CRESTED WOOD,PARTRIDGE,Cape_may
-B,No,No,0.1.0,BLUE-CROWNED,PIGEON,Cape_may
-B,No,No,4.1.0,NICOBAR,PIGEON,Cape_may
-B,No,No,3.0.0,,PINTAIL,Cape_may
-M,No,No,2.0.0,AFRICAN-CRESTED,PORCUPINE,Cape_may
-R,No,No,0.0.2,GREEN TREE,PYTHON,Cape_may
-R,Yes,Yes,0.1.0,TIMBER,RATTLESNAKE,Cape_may
-B,No,No,0.1.0,SNOWY-HEADED,ROBIN-CHAT,Cape_may
-A,No,No,0.0.1,MARBLED,SALAMANDER,Cape_may
-A,Yes,No,0.0.2,TIGER,SALAMANDER,Cape_may
-R,No,No,0.0.1,BLUE-TONGUED,SKINK,Cape_may
-R,No,No,0.1.0,ARGENTINE BOA CONSTRICTOR,SNAKE,Cape_may
-R,No,No,0.0.1,BALL [ROYAL] PYTHON,SNAKE,Cape_may
-R,No,No,0.0.1,BLACK RAT,SNAKE,Cape_may
-R,No,No,0.1.0,BOA CONSTICTOR,SNAKE,Cape_may
-R,No,Yes,0.1.0,COPPERHEAD,SNAKE,Cape_may
-R,Yes,No,1.0.1,CORN [RED RAT],SNAKE,Cape_may
-R,No,No,0.0.1,GOPHER/PINE,SNAKE,Cape_may
-R,No,No,0.0.2,GREEN TREE PYTHON,SNAKE,Cape_may
-R,No,No,1.1.1,NORTHERN PINE,SNAKE,Cape_may
-R,No,No,1.1.1,ROUGH GREEN,SNAKE,Cape_may
-R,No,No,0.1.0,RUFOUS-BEAKED,SNAKE,Cape_may
-B,No,No,0.0.1,JAVA,SPARROW,Cape_may
-B,No,No,1.1.0,ROSEATE,SPOONBILL,Cape_may
-B,No,No,1.2.0,SUPERB,STARLING,Cape_may
-B,No,No,1.2.0,BLACK,SWAN,Cape_may
-B,No,No,0.1.0,BLACK-NECKED,SWAN,Cape_may
-M,No,Yes,2.2.1,COTTON-TOP,TAMARIN,Cape_may
-M,No,Yes,1.1.0,GOLDEN LION,TAMARIN,Cape_may
-M,No,Yes,1.1.0,GOLDEN-HEADED LION,TAMARIN,Cape_may
-B,No,No,1.1.0,COMMON SHAMA,THRUSH,Cape_may
-M,No,Yes,1.0.0,SIBERIAN,TIGER,Cape_may
-A,No,No,0.0.3,ORIENTAL FIRE-BELLIED,TOAD,Cape_may
-R,No,No,1.1.0,AFRICAN PANCAKE,TORTOISE,Cape_may
-R,No,No,0.0.1,AFRICAN SPURRED,TORTOISE,Cape_may
-R,No,No,1.1.2,ALDABRA,TORTOISE,Cape_may
-R,No,No,1.0.0,CENTRAL ASIAN,TORTOISE,Cape_may
-R,No,No,0.0.1,GALAPAGOS,TORTOISE,Cape_may
-R,No,No,0.1.0,HOMES HINGEBACK,TORTOISE,Cape_may
-R,No,No,0.0.1,LEOPARD,TORTOISE,Cape_may
-R,No,No,0.0.3,SOUTH AMERICAN RED-FOOTED,TORTOISE,Cape_may
-R,No,No,2.0.1,SOUTH AMERICAN YELLOW-FOOTED,TORTOISE,Cape_may
-B,No,No,1.0.0,TOCO,TOUCAN,Cape_may
-B,No,No,0.0.1,RUDDY,TURNSTONE,Cape_may
-R,No,No,1.1.0,AQUATIC BOX,TURTLE,Cape_may
-R,No,No,0.0.8,AUSTRALIAN SNAKE-NECKED,TURTLE,Cape_may
-R,No,No,0.0.1,CHINESE BIG-HEADED,TURTLE,Cape_may
-R,No,No,0.0.1,COMMON BOX,TURTLE,Cape_may
-R,No,No,1.0.0,COMMON MAP,TURTLE,Cape_may
-R,No,No,0.0.1,EAST AFRICAN BLACK MUD,TURTLE,Cape_may
-R,No,No,1.2.3,EASTERN BOX,TURTLE,Cape_may
-R,No,No,0.0.1,EASTERN MUD,TURTLE,Cape_may
-R,No,No,1.1.0,FLORIDA SOFT SHELL,TURTLE,Cape_may
-R,No,No,0.0.1,HELMETED,TURTLE,Cape_may
-R,No,No,0.0.4,MALAYAN BOX (S. ASIAN),TURTLE,Cape_may
-R,No,No,3.0.0,RED-BELLIED SHORT-NECK,TURTLE,Cape_may
-R,No,No,0.1.0,SIEBERNROCK'S SNAKE-NECKED,TURTLE,Cape_may
-R,No,No,1.0.1,SPOTTED,TURTLE,Cape_may
-R,No,No,0.0.2,THREE-TOED BOX,TURTLE,Cape_may
-R,No,No,4.0.4,YELLOW-MARGINED BOX,TURTLE,Cape_may
-R,No,Yes,1.0.0,EYELASH PALM PIT,VIPER,Cape_may
-M,No,No,5.3.0,BENNETT'S (RED-NECKED),WALLABY,Cape_may
-M,No,Yes,1.0.0,WHITE-FRONTED (PARMA),WALLABY,Cape_may
-M,No,No,3.2.0,,WATUSI,Cape_may
-B,No,No,0.1.0,TAVETA GOLDEN,WEAVER,Cape_may
-M,No,No,2.2.0,COMMON,ZEBRA,Cape_may
-M,No,Yes,0.1.0,ASIATIC BLACK,BEAR,Cohanzick_zoo
-M,No,Yes,1.2.0,FISHING,CAT,Cohanzick_zoo
-M,No,No,1.0.0,,CHINCHILLA,Cohanzick_zoo
-M,No,Yes,0.3.0,WHITE-NOSED,COATIMUNDI,Cohanzick_zoo
-B,No,No,0.1.1,MOLUCCAN,COCKATOO,Cohanzick_zoo
-B,No,No,0.1.1,SAND-HILL,CRANE,Cohanzick_zoo
-M,No,Yes,2.1.0,NEW GUINEA SINGING,DOG,Cohanzick_zoo
-R,No,No,0.0.3,BEARDED,DRAGON,Cohanzick_zoo
-M,No,Yes,1.0.0,FENNEC,FOX,Cohanzick_zoo
-A,No,No,0.0.2,LEOPARD,FROG,Cohanzick_zoo
-M,Yes,Yes,1.0.0,WHITE-HANDED,GIBBON,Cohanzick_zoo
-B,No,No,1.0.0,RED-TAILED,HAWK,Cohanzick_zoo
-M,No,Yes,2.0.0,,KINKAJOU,Cohanzick_zoo
-M,Yes,Yes,1.2.0,RING-TAILED,LEMUR,Cohanzick_zoo
-M,No,Yes,1.1.0,MOUNTAIN,LION,Cohanzick_zoo
-B,No,No,1.0.0,BLUE & GOLD,MACAW,Cohanzick_zoo
-M,No,Yes,4.1.0,COMMON,MARMOSET,Cohanzick_zoo
-M,No,Yes,1.1.0,WEID'S,MARMOSET,Cohanzick_zoo
-M,No,Yes,1.0.0,OWL,MONKEY,Cohanzick_zoo
-B,No,No,1.0.0,BARN,OWL,Cohanzick_zoo
-B,No,No,0.0.1,BARRED,OWL,Cohanzick_zoo
-B,No,No,1.1.0,EASTERN SCREECH,OWL,Cohanzick_zoo
-B,No,No,1.0.1,GREAT-HORNED,OWL,Cohanzick_zoo
-B,No,No,1.0.0,SPECTACLED,OWL,Cohanzick_zoo
-B,No,No,1.0.0,SILVER,PHEASANT,Cohanzick_zoo
-M,No,No,0.1.0,AFRICAN-CRESTED,PORCUPINE,Cohanzick_zoo
-M,No,Yes,0.1.0,PREHENSILE-TAILED,PORCUPINE,Cohanzick_zoo
-R,No,No,1.0.0,BALL,PYTHON,Cohanzick_zoo
-M,No,Yes,1.1.0,AFRICAN,SERVAL,Cohanzick_zoo
-R,No,No,0.0.1,BLUE-TONGUED,SKINK,Cohanzick_zoo
-M,No,No,0.1.0,STRIPED,SKUNK,Cohanzick_zoo
-A,No,No,0.0.2,CANE,TOAD,Cohanzick_zoo
-R,No,No,1.0.0,AFRICAN-SPURRED,TORTOISE,Cohanzick_zoo
-R,No,No,1.0.0,LEOPARD,TORTOISE,Cohanzick_zoo
-B,No,No,1.0.0,,TRAGOPAN,Cohanzick_zoo
-R,No,No,0.0.1,FLORIDA SOFT-SHELLED,TURTLE,Cohanzick_zoo
-R,No,No,1.0.0,THREE-TOED BOX,TURTLE,Cohanzick_zoo
-R,No,No,0.0.1,,UROMASTYX,Cohanzick_zoo
-R,No,Yes,0.0.1,AMERICAN,ALLIGATOR,Jenkinsons_aquarium
-B,No,No,0.1.0,MOLLUCAN,COCKATOO,Jenkinsons_aquarium
-R,No,No,0.1.0,BEARDED,DRAGON,Jenkinsons_aquarium
-A,No,No,1.1.0,AFRICAN CLAWED,FROG,Jenkinsons_aquarium
-A,No,No,0.0.4,AURATUS DART,FROG,Jenkinsons_aquarium
-A,No,No,0.0.2,BLUE POISON DART,FROG,Jenkinsons_aquarium
-A,No,No,0.0.4,COBALT TINC DART,FROG,Jenkinsons_aquarium
-A,No,No,0.0.10,NORTHERN GREY TREE,FROG,Jenkinsons_aquarium
-A,No,No,0.0.1,SOUTHERN LEOPARD,FROG,Jenkinsons_aquarium
-A,No,No,0.0.3,VIETNAMESE MOSSY,FROG,Jenkinsons_aquarium
-A,No,No,0.0.3,WHITE'S TREE,FROG,Jenkinsons_aquarium
-A,No,No,0.2.1,YELLOW/BLACK POISON DART,FROG,Jenkinsons_aquarium
-R,No,No,1.0.0,LEOPARD,GECKO,Jenkinsons_aquarium
-R,No,No,0.0.2,STANDING'S DAY,GECKO,Jenkinsons_aquarium
-B,No,No,0.2.0,BLUE & GOLD,MACAW,Jenkinsons_aquarium
-B,No,No,0.1.0,SCARLET,MACAW,Jenkinsons_aquarium
-M,No,Yes,1.0.0,PYGMY,MARMOSET,Jenkinsons_aquarium
-A,No,No,0.0.1,RED-SPOTTED,NEWT,Jenkinsons_aquarium
-B,No,No,2.0.0,EASTERN SCREECH,OWL,Jenkinsons_aquarium
-B,No,No,12.10.0,AFRICAN,PENGUIN,Jenkinsons_aquarium
-R,No,No,0.1.0,BALL,PYTHON,Jenkinsons_aquarium
-R,No,No,1.0.0,BURMESE,PYTHON,Jenkinsons_aquarium
-A,Yes,No,1.1.0,TIGER,SALAMANDER,Jenkinsons_aquarium
-M,No,No,0.2.0,HARBOR,SEAL,Jenkinsons_aquarium
-R,No,No,0.0.1,BLUE-TONGUED,SKINK,Jenkinsons_aquarium
-R,No,No,1.0.0,NORTHERN PINE,SNAKE,Jenkinsons_aquarium
-M,No,Yes,1.0.0,SADDLEBACK,TAMARIN,Jenkinsons_aquarium
-A,No,No,0.0.3,EASTERN SPADEFOOT,TOAD,Jenkinsons_aquarium
-A,No,No,0.0.2,SQUARE-MARKED,TOAD,Jenkinsons_aquarium
-R,No,No,3.0.0,PANCAKE,TORTOISE,Jenkinsons_aquarium
-R,No,No,1.1.1,COMMON MAP,TURTLE,Jenkinsons_aquarium
-R,No,No,0.0.1,COMMON MUSK,TURTLE,Jenkinsons_aquarium
-R,No,No,1.0.0,EASTERN BOX,TURTLE,Jenkinsons_aquarium
-R,No,No,2.0.0,EASTERN PAINTED,TURTLE,Jenkinsons_aquarium
-R,No,No,0.0.1,FLY RIVER,TURTLE,Jenkinsons_aquarium
-R,Yes,No,0.1.0,KEMP'S RIDLEY SEA,TURTLE,Jenkinsons_aquarium
-R,No,No,1.0.0,MISSISSIPPI MAP,TURTLE,Jenkinsons_aquarium
-R,No,No,0.1.0,SOUTHERN PAINTED,TURTLE,Jenkinsons_aquarium
-R,No,No,1.2.0,SPOTTED,TURTLE,Jenkinsons_aquarium
-R,No,No,0.1.0,TEXAS MAP,TURTLE,Jenkinsons_aquarium
-R,No,No,0.0.1,YELLOW-BELLY SLIDER,TURTLE,Jenkinsons_aquarium
-R,No,No,1.0.0,DUMERIL'S GROUND,BOA,Liberty_SC
-R,No,No,0.0.1,PANTHER,CHAMELEON,Liberty_SC
-M,No,No,1.1.0,,CHINCHILLA,Liberty_SC
-M,No,No,4.0.0,,DEGU,Liberty_SC
-R,No,No,2.0.1,BEARDED,DRAGON,Liberty_SC
-B,No,No,1.2.0,SAFFRON,FINCH,Liberty_SC
-A,No,No,0.0.1,GIANT WAXY MONKEY TREE,FROG,Liberty_SC
-A,No,No,0.0.8,GREEN & BLACK POISON DART,FROG,Liberty_SC
-A,No,No,0.0.1,MOSSY,FROG,Liberty_SC
-A,No,No,0.0.17,SPLASHBACK POISON DART,FROG,Liberty_SC
-A,No,No,1.0.7,STRAWBERRY POISON DART,FROG,Liberty_SC
-A,No,No,0.0.23,YELLOW & BLUE POISON DART,FROG,Liberty_SC
-R,No,No,0.1.0,HENKLE'S LEAF-TAILED,GECKO,Liberty_SC
-M,No,No,1.1.0,SUGAR,GLIDER,Liberty_SC
-M,No,No,1.0.0,FOUR-TOED,HEDGEHOG,Liberty_SC
-R,No,No,2.1.0,EASTERN,KINGSNAKE,Liberty_SC
-R,No,No,1.0.0,SCARLET,KINGSNAKE,Liberty_SC
-R,No,No,0.0.2,FRILLED,LIZARD,Liberty_SC
-R,No,No,1.0.0,TEGU,LIZARD,Liberty_SC
-B,No,No,1.0.0,GREEN-WINGED,MACAW,Liberty_SC
-R,No,Yes,1.1.0,GILA,MONSTER,Liberty_SC
-R,No,No,2.1.0,BALL,PYTHON,Liberty_SC
-R,No,No,1.0.1,CALABAR,PYTHON,Liberty_SC
-R,No,No,0.1.0,GREEN TREE,PYTHON,Liberty_SC
-R,No,No,1.0.0,JUNGLE CARPET,PYTHON,Liberty_SC
-A,No,No,0.0.1,MARBLED,SALAMANDER,Liberty_SC
-A,Yes,No,0.0.2,TIGER,SALAMANDER,Liberty_SC
-R,No,No,0.0.1,BLUE-TONGUED,SKINK,Liberty_SC
-R,Yes,No,0.0.1,CORN [RED RAT],SNAKE,Liberty_SC
-R,No,No,1.0.0,EASTERN MILK,SNAKE,Liberty_SC
-R,No,No,1.0.0,EVERGLADES RAT,SNAKE,Liberty_SC
-R,No,No,2.0.0,NORTHERN PINE,SNAKE,Liberty_SC
-R,No,No,0.0.1,PUEBLAN MILK,SNAKE,Liberty_SC
-M,No,Yes,1.4.0,COTTON-TOP,TAMARIN,Liberty_SC
-R,No,No,0.1.2,DIAMONDBACK,TERRAPIN,Liberty_SC
-A,No,No,0.0.3,MARINE,TOAD,Liberty_SC
-R,No,No,2.5.1,S.A. RED-FOOTED,TORTOISE,Liberty_SC
-R,No,No,0.0.1,ALLIGATOR SNAPPING,TURTLE,Liberty_SC
-R,No,No,1.5.0,EASTERN BOX,TURTLE,Liberty_SC
-R,No,No,1.0.0,WOOD,TURTLE,Liberty_SC
-R,No,Yes,0.1.0,GABOON,VIPER,Liberty_SC
-B,Yes,No,1.0.0,GOLDEN,EAGLE,McFaul_environmental_center
-A,No,No,0.0.3,TREE,FROG,McFaul_environmental_center
-B,No,No,0.0.2,RED-TAILED,HAWK,McFaul_environmental_center
-B,No,No,1.0.0,AMERICAN,KESTREL,McFaul_environmental_center
-R,No,No,0.0.1,ARIZONA,KINGSNAKE,McFaul_environmental_center
-R,No,No,0.0.1,EASTERN,KINGSNAKE,McFaul_environmental_center
-B,No,No,0.0.1,SCREECH,OWL,McFaul_environmental_center
-R,Yes,No,1.2.0,CORN [RED RAT],SNAKE,McFaul_environmental_center
-R,No,No,0.0.1,HONDURAN MILK,SNAKE,McFaul_environmental_center
-B,No,No,0.1.0,MUTE,SWAN,McFaul_environmental_center
-R,No,No,0.1.0,DIAMONDBACK,TERRAPIN,McFaul_environmental_center
-A,No,No,0.0.2,AMERICAN,TOAD,McFaul_environmental_center
-R,No,No,0.0.1,RUSSIAN,TORTOISE,McFaul_environmental_center
-R,No,No,0.0.1,SULCATTA,TORTOISE,McFaul_environmental_center
-R,No,No,0.0.30,BOX,TURTLE,McFaul_environmental_center
-R,No,No,0.1.0,CHINESE BOX HYBRID,TURTLE,McFaul_environmental_center
-R,No,No,0.2.0,PAINTED,TURTLE,McFaul_environmental_center
-R,No,No,1.0.0,SOFT-SHELLED,TURTLE,McFaul_environmental_center
-R,No,No,0.0.10,WOOD,TURTLE,McFaul_environmental_center
-B,No,No,0.1.1,BLUE-FRONTED,AMAZON,Popcorn_park
-M,No,Yes,1.0.0,,BABOON,Popcorn_park
-R,No,Yes,0.0.2,DWARF,CAIMAN,Popcorn_park
-B,No,No,0.0.2,GOFFIN'S,COCKATOO,Popcorn_park
-B,No,No,0.0.2,UMBRELLA,COCKATOO,Popcorn_park
-M,No,No,1.0.0,FALLOW,DEER,Popcorn_park
-M,No,Yes,0.1.0,RUPPELL'S,FOX,Popcorn_park
-B,No,No,0.0.1,RED-TAILED,HAWK,Popcorn_park
-M,No,Yes,1.0.0,RED,KANGAROO,Popcorn_park
-M,No,Yes,0.1.0,,KINKAJOU,Popcorn_park
-M,No,Yes,0.1.2,AFRICAN,LION,Popcorn_park
-M,No,Yes,3.1.0,MOUNTAIN,LION,Popcorn_park
-M,No,Yes,1.0.0,PIG-TAIL,MACAQUE,Popcorn_park
-M,No,Yes,1.0.0,RHESUS,MACAQUE,Popcorn_park
-B,No,No,0.0.1,BLUE & GOLD,MACAW,Popcorn_park
-B,No,No,0.0.1,CATALINA,MACAW,Popcorn_park
-B,No,No,0.0.2,GREEN-WINGED,MACAW,Popcorn_park
-B,No,No,0.0.1,SEVERE,MACAW,Popcorn_park
-M,No,Yes,2.2.0,CAPUCHIN,MONKEY,Popcorn_park
-M,No,Yes,0.1.0,PATAS,MONKEY,Popcorn_park
-M,No,No,1.0.0,REEVE'S,MUNTJAC,Popcorn_park
-B,No,No,0.0.1,AFRICAN GREY,PARROT,Popcorn_park
-R,No,No,0.0.1,BURMESE,PYTHON,Popcorn_park
-M,No,Yes,1.0.0,AFRICAN,SERVAL,Popcorn_park
-M,No,Yes,2.2.0,,TIGER,Popcorn_park
-R,No,No,1.0.0,ALDABRA,TORTOISE,Popcorn_park
-R,No,No,0.0.2,LEOPARD,TORTOISE,Popcorn_park
-R,No,No,0.0.3,RED-FOOTED,TORTOISE,Popcorn_park
-R,No,No,0.0.1,RUSSIAN,TORTOISE,Popcorn_park
-R,No,No,0.0.2,SULCATA,TORTOISE,Popcorn_park
-R,No,No,0.0.2,CHICKEN SLIDER,TURTLE,Popcorn_park
-R,No,No,0.0.2,MAP,TURTLE,Popcorn_park
-R,No,No,0.0.1,RED-BELLIED,TURTLE,Popcorn_park
-R,No,No,0.0.9,RED-EARED SLIDER,TURTLE,Popcorn_park
-M,No,No,2.9.1,,ADDAX,Six_flags
-M,No,No,3.1.10,RED,ANKOLI,Six_flags
-M,No,No,0.1.0,SABLE,ANTELOPE,Six_flags
-M,No,No,19.19.11,,AOUDAD,Six_flags
-M,No,Yes,27.28.65,ANUBIS,BABOON,Six_flags
-M,No,Yes,13.14.1,BROWN,BEAR,Six_flags
-M,No,Yes,10.25.10,AMERICAN,BISON,Six_flags
-M,No,No,39.46.13,,BLACKBUCK,Six_flags
-M,No,No,1.2.0,ASIAN WATER,BUFFALO,Six_flags
-B,No,No,0.1.3,EAST AFRICAN,CRANE,Six_flags
-M,No,No,36.44.7,FALLOW,DEER,Six_flags
-M,No,No,7.2.16,,ELAND,Six_flags
-M,No,Yes,0.7.0,AFRICAN,ELEPHANT,Six_flags
-M,No,No,11.24.3,AMERICAN,ELK,Six_flags
-B,No,No,0.0.5,,FLAMINGO,Six_flags
-M,No,No,2.0.0,DAMA,GAZELLE,Six_flags
-M,No,No,1.9.0,,GIRAFFE,Six_flags
-M,No,No,1.6.1,WHITE-BEARDED,GNU,Six_flags
-M,No,No,3.13.3,WHITE-TAILED,GNU,Six_flags
-B,No,No,0.0.38,EGYPTIAN,GOOSE,Six_flags
-B,No,No,0.0.1,SOUTHERN,HORNBILL,Six_flags
-B,No,No,0.0.10,SACRED,IBIS,Six_flags
-M,No,No,15.18.0,RED,KANGAROO,Six_flags
-M,No,No,4.9.0,GREATER,KUDU,Six_flags
-M,No,No,2.4.0,RED,LECHWE,Six_flags
-M,No,Yes,11.1.0,AFRICAN,LION,Six_flags
-M,No,No,1.5.0,CALIFORNIA SEA,LION,Six_flags
-M,No,No,1.14.0,,NILGAI,Six_flags
-M,No,No,1.4.0,BEISA,ORYX,Six_flags
-M,No,No,11.23.0,SCIMITAR HORNED,ORYX,Six_flags
-M,No,Yes,2.7.0,WHITE,RHINOCEROS,Six_flags
-B,No,No,0.1.0,MARABOU,STORK,Six_flags
-B,No,No,3.2.11,BLACK,SWAN,Six_flags
-B,No,No,1.1.4,MUTE,SWAN,Six_flags
-M,No,Yes,3.3.0,BENGAL,TIGER,Six_flags
-M,No,Yes,2.3.0,SIBERIAN,TIGER,Six_flags
-R,No,No,1.1.0,ALDABRA,TORTOISE,Six_flags
-M,No,No,3.13.0,ELIPIS,WATERBUCK,Six_flags
-M,No,No,2.7.0,,YAK,Six_flags
-M,No,No,5.24.6,,ZEBRA,Six_flags
-R,No,Yes,0.0.4,,ALLIGATOR,Space_farm
-B,No,No,0.0.1,DOUBLE YELLOW-HEADED,AMAZON,Space_farm
-M,No,No,1.1.0,,AOUDAD,Space_farm
-M,No,Yes,2.0.0,,BABOON,Space_farm
-M,No,No,1.1.0,,BADGER,Space_farm
-M,No,Yes,1.1.0,HIMALAYAN,BEAR,Space_farm
-M,No,Yes,1.2.2,JAPANESE BLACK,BEAR,Space_farm
-M,No,Yes,2.5.0,SYRIAN (BROWN),BEAR,Space_farm
-M,Yes,Yes,2.1.0,,BOBCAT,Space_farm
-M,No,No,1.0.0,PATAGONIAN,CAVY,Space_farm
-B,No,No,1.1.0,MOLLUCAN,COCKATOO,Space_farm
-R,No,No,1.0.0,RED-TAILED BOA,CONSTRICTOR,Space_farm
-R,No,Yes,0.0.2,SOUTHERN,COPPERHEAD,Space_farm
-M,No,No,17.58.10,FALLOW,DEER,Space_farm
-M,No,Yes,6.21.8,SIKA,DEER,Space_farm
-M,No,Yes,5.5.0,PRAIRIE,DOG,Space_farm
-M,No,Yes,1.8.3,AMERICAN,ELK,Space_farm
-M,No,Yes,1.1.0,RED,FOX,Space_farm
-M,No,Yes,0.1.0,,GENET,Space_farm
-B,No,No,1.1.0,RED-TAILED,HAWK,Space_farm
-M,No,Yes,2.1.0,,HYENA,Space_farm
-M,No,Yes,0.0.1,,JAGUAR,Space_farm
-M,No,No,1.1.0,,KANGAROO,Space_farm
-R,No,No,0.0.1,,KINGSNAKE,Space_farm
-M,Yes,Yes,3.3.0,RING-TAILED,LEMUR,Space_farm
-M,Yes,Yes,1.1.0,,LEOPARD,Space_farm
-M,No,Yes,1.1.0,AFRICAN,LION,Space_farm
-M,No,Yes,1.0.0,MOUNTAIN,LION,Space_farm
-M,No,Yes,1.0.0,CANADIAN,LYNX,Space_farm
-M,No,No,2.0.0,RHESUS,MACAQUE,Space_farm
-B,No,No,0.0.1,GREEN-WINGED,MACAW,Space_farm
-R,No,Yes,0.0.3,COTTONMOUTH,MOCCASIN,Space_farm
-M,No,No,1.1.0,AMERICAN,PORCUPINE,Space_farm
-R,No,No,0.0.1,ALBINO,PYTHON,Space_farm
-R,No,No,0.0.1,RETICULATED,PYTHON,Space_farm
-R,No,Yes,0.0.7,CANEBREAK,RATTLESNAKE,Space_farm
-M,No,Yes,1.0.0,AFRICAN,SERVAL,Space_farm
-M,No,No,7.8.15,MOUFLON,SHEEP,Space_farm
-R,No,No,0.0.9,BLACK RAT,SNAKE,Space_farm
-M,No,Yes,1.2.0,BENGAL,TIGER,Space_farm
-M,Yes,Yes,0.2.0,TIMBER,WOLF,Space_farm
-R,No,Yes,1.0.0,AMERICAN,ALLIGATOR,Turtleback_zoo
-R,No,No,0.0.5,HISPANIOLAN GIANT,ANOLE,Turtleback_zoo
-M,No,No,0.1.0,SIX-BANDED,ARMADILLO,Turtleback_zoo
-M,No,No,1.0.0,AFRICAN WILD,ASS,Turtleback_zoo
-A,No,No,0.0.10,,AXOLOTL,Turtleback_zoo
-M,No,Yes,0.2.0,NORTH AMERICAN BLACK,BEAR,Turtleback_zoo
-M,No,Yes,1.2.0,AMERICAN,BISON,Turtleback_zoo
-R,No,No,0.1.0,NEW GUINEA,BOA,Turtleback_zoo
-R,No,No,1.0.0,ROSY,BOA,Turtleback_zoo
-M,Yes,Yes,0.1.0,,BOBCAT,Turtleback_zoo
-M,No,No,0.2.0,,CAPYBARA,Turtleback_zoo
-M,No,No,0.2.0,LONG-TAILED,CHINCHILLA,Turtleback_zoo
-B,No,No,0.1.0,ANDEAN,CONDOR,Turtleback_zoo
-M,No,Yes,1.1.0,,COUGAR,Turtleback_zoo
-B,No,No,1.0.0,WHITE-NAPED,CRANE,Turtleback_zoo
-M,No,Yes,7.4.4,BLACK-TAILED PRAIRIE,DOG,Turtleback_zoo
-B,No,No,0.0.1,MOURNING,DOVE,Turtleback_zoo
-R,No,No,1.0.0,INLAND BEARDED,DRAGON,Turtleback_zoo
-R,No,No,1.0.0,KOMODO,DRAGON,Turtleback_zoo
-B,Yes,No,1.1.0,BALD,EAGLE,Turtleback_zoo
-M,No,No,2.0.0,,FERRET,Turtleback_zoo
-M,No,Yes,0.2.0,GRAY,FOX,Turtleback_zoo
-M,No,Yes,0.2.0,RED,FOX,Turtleback_zoo
-A,No,No,0.0.2,GREEN & BLACK POISON DART,FROG,Turtleback_zoo
-A,No,No,0.0.5,GULFODULCEAN POISON DART,FROG,Turtleback_zoo
-A,No,No,0.0.4,TOMATO,FROG,Turtleback_zoo
-A,No,No,0.0.1,VIETNAMESE MOSSY,FROG,Turtleback_zoo
-A,No,No,1.0.0,WHITE'S TREE,FROG,Turtleback_zoo
-A,No,No,0.0.4,YELLOW & BLUE POISON DART,FROG,Turtleback_zoo
-B,No,No,1.0.0,TAWNY,FROGMOUTH,Turtleback_zoo
-R,No,No,1.2.0,LEOPARD,GECKO,Turtleback_zoo
-M,No,Yes,2.1.0,WHITE CHEEKED,GIBBON,Turtleback_zoo
-B,No,No,0.1.0,AMERICAN KESTRAL/SPARROW,HAWK,Turtleback_zoo
-B,No,No,0.1.0,EASTERN RED-TAILED,HAWK,Turtleback_zoo
-B,No,No,0.2.0,HARRIS/BAY WINGED,HAWK,Turtleback_zoo
-M,No,No,1.1.0,FOUR-TOED,HEDGEHOG,Turtleback_zoo
-A,No,No,0.0.1,,HELLBENDER,Turtleback_zoo
-B,No,No,1.6.0,SCARLET,IBIS,Turtleback_zoo
-M,No,Yes,0.1.0,,JAGUAR,Turtleback_zoo
-B,No,No,2.0.0,RED,JUNGLEFOWL,Turtleback_zoo
-M,No,No,3.0.0,EASTERN GREY,KANGAROO,Turtleback_zoo
-B,No,No,1.1.0,LAUGHING,KOOKABURRA,Turtleback_zoo
-M,No,Yes,1.1.0,AMUR,LEOPARD,Turtleback_zoo
-M,No,Yes,1.1.0,SNOW,LEOPARD,Turtleback_zoo
-R,No,No,1.2.0,CHINESE CROCODILE,LIZARD,Turtleback_zoo
-R,No,Yes,0.0.1,MEXICAN BEADED,LIZARD,Turtleback_zoo
-B,No,No,1.0.0,,MACAW,Turtleback_zoo
-B,No,No,0.1.0,MILITARY,MACAW,Turtleback_zoo
-B,No,No,1.1.0,RED-BILLED BLUE,MAGPIE,Turtleback_zoo
-R,No,No,1.0.0,EMERALD,MONITOR,Turtleback_zoo
-R,No,No,0.1.0,WATER,MONITOR,Turtleback_zoo
-M,No,No,1.0.0,CHINESE,MUNTJAC,Turtleback_zoo
-A,No,No,0.0.2,KAISER'S,NEWT,Turtleback_zoo
-M,No,No,1.1.0,NORTH AMERICAN RIVER,OTTER,Turtleback_zoo
-B,No,No,0.2.0,BARRED,OWL,Turtleback_zoo
-B,No,No,2.0.0,BURROWING,OWL,Turtleback_zoo
-B,No,No,0.1.1,EASTERN SCREECH,OWL,Turtleback_zoo
-B,No,No,1.0.0,WESTERN SCREECH,OWL,Turtleback_zoo
-M,No,No,1.1.0,RED,PANDA,Turtleback_zoo
-B,No,No,1.1.0,CRESTED WOOD,PARTRIDGE,Turtleback_zoo
-B,No,No,7.4.0,JACKASS,PENGUIN,Turtleback_zoo
-B,No,No,0.1.0,HIMALAYAN IMPEYAN,PHEASANT,Turtleback_zoo
-M,No,No,1.0.0,MEXICAN HAIRY DWARF,PORCUPINE,Turtleback_zoo
-M,No,No,2.1.0,NORTH AMERICAN,PORCUPINE,Turtleback_zoo
-M,No,No,0.1.0,PREHENSILE-TAILED,PORCUPINE,Turtleback_zoo
-R,No,No,2.0.1,BALL [ROYAL],PYTHON,Turtleback_zoo
-R,No,No,1.0.0,GREEN TREE,PYTHON,Turtleback_zoo
-R,No,No,0.1.0,RETICULATED,PYTHON,Turtleback_zoo
-M,No,No,1.2.0,EUROPEAN,RABBIT,Turtleback_zoo
-R,No,No,1.0.0,RED MOUNTAIN,RACER,Turtleback_zoo
-B,No,No,1.1.0,,RAVEN,Turtleback_zoo
-M,No,No,2.1.0,CALIFORNIA,SEA LION,Turtleback_zoo
-M,No,No,2.4.0,MOUFLON,SHEEP,Turtleback_zoo
-B,No,No,0.1.0,SOUTH AFRICAN,SHELDUCK,Turtleback_zoo
-R,No,No,1.1.0,BLUE-TONGUED,SKINK,Turtleback_zoo
-R,No,No,0.0.1,FERNAND'S,SKINK,Turtleback_zoo
-R,No,No,2.0.0,PREHENSILE-TAILED,SKINK,Turtleback_zoo
-M,No,Yes,1.0.0,HOFFMAN'S TWO-TOED,SLOTH,Turtleback_zoo
-R,Yes,No,0.2.0,CORN [RED RAT],SNAKE,Turtleback_zoo
-R,No,No,0.0.1,NORTHERN PINE,SNAKE,Turtleback_zoo
-R,No,No,1.0.0,RHINOCEROS,SNAKE,Turtleback_zoo
-R,No,No,0.0.5,TENTACLED,SNAKE,Turtleback_zoo
-B,No,No,1.1.0,BLACK-NECKED,SWAN,Turtleback_zoo
-B,No,No,1.0.0,DIAMONDBACK,TERRAPIN,Turtleback_zoo
-B,No,No,1.1.0,WHITE-CRESTED LAUGHING,THRUSH,Turtleback_zoo
-A,No,No,0.0.2,GIANT MARINE,TOAD,Turtleback_zoo
-R,No,No,2.0.0,AFRICAN PANCAKE,TORTOISE,Turtleback_zoo
-R,No,No,2.1.0,ALDABRA,TORTOISE,Turtleback_zoo
-R,No,No,2.0.0,ASIAN BROWN,TORTOISE,Turtleback_zoo
-R,No,No,0.0.1,BELL'S HINGEBACK,TORTOISE,Turtleback_zoo
-R,No,No,1.1.0,CENTRAL ASIAN,TORTOISE,Turtleback_zoo
-R,No,No,0.0.3,ELONGATED,TORTOISE,Turtleback_zoo
-R,No,No,1.0.0,GALAPAGOS,TORTOISE,Turtleback_zoo
-R,No,No,1.0.0,LEOPARD,TORTOISE,Turtleback_zoo
-R,No,No,0.1.0,SOUTH AMERICAN RED-FOOTED,TORTOISE,Turtleback_zoo
-R,No,No,1.1.0,STAR,TORTOISE,Turtleback_zoo
-B,No,No,1.2.0,SATYR,TRAGOPAN,Turtleback_zoo
-R,No,No,1.0.0,AMERICAN RED-BELLIED,TURTLE,Turtleback_zoo
-R,No,No,2.5.0,EASTERN BOX,TURTLE,Turtleback_zoo
-R,No,No,2.1.2,EASTERN PAINTED,TURTLE,Turtleback_zoo
-R,No,No,0.1.0,FLORIDA RIVER COOTER,TURTLE,Turtleback_zoo
-R,No,No,2.2.0,RED-EARED SLIDER,TURTLE,Turtleback_zoo
-R,No,No,2.0.0,SPINY HILL,TURTLE,Turtleback_zoo
-M,No,No,5.6.0,RED-NECKED,WALLABY,Turtleback_zoo
-M,No,Yes,3.0.0,GREY,WOLF,Turtleback_zoo
+Category,Endangered?,Dangerous?,Total,male,female,no_gender,First_name,Second_name,Zoo_name
+R,No,     Yes,0.0.2,0,0,2,AMERICAN,ALLIGATOR,Adventure_aquarium
+B,No,No,1.0.0,1,0,0,RED-LORED,AMAZON,Adventure_aquarium
+B,No,No,0.1.0,0,1,0,YELLOW-NAPED,AMAZON,Adventure_aquarium
+M,No,Yes,0.1.0,0,1,0,LARGE HAIRY,ARMADILLO,Adventure_aquarium
+M,No,Yes,1.0.0,1,0,0,SOUTHERN THREE-BANDED,ARMADILLO,Adventure_aquarium
+A,No,No,5.5.372,5,5,372,,AXOLOTL,Adventure_aquarium
+R,No,Yes,0.1.0,0,1,0,CUVIER'S DWARF,CAIMAN,Adventure_aquarium
+M,No,No,0.0.2,0,0,2,,CHINCHILLA,Adventure_aquarium
+R,No,Yes,0.0.2,0,0,2,AFRICAN DWARF,CROCODILE,Adventure_aquarium
+R,No,No,0.0.1,0,0,1,AUSTRALIAN BEARDED,DRAGON,Adventure_aquarium
+A,No,No,0.0.1,0,0,1,AFRICAN BULL,FROG,Adventure_aquarium
+A,No,No,0.0.8,0,0,8,AMAZON MILK,FROG,Adventure_aquarium
+A,No,No,0.0.2,0,0,2,AMAZONIAN POISON DART,FROG,Adventure_aquarium
+A,No,No,0.0.1,0,0,1,ARGENTINE HORNED,FROG,Adventure_aquarium
+A,No,No,0.0.6,0,0,6,BLUE & BLACK POISON DART,FROG,Adventure_aquarium
+A,No,No,0.0.3,0,0,3,BORNEAN-EARED,FROG,Adventure_aquarium
+A,No,No,0.0.13,0,0,13,BULL,FROG,Adventure_aquarium
+A,No,No,0.0.2,0,0,2,CARPENTER,FROG,Adventure_aquarium
+A,No,No,0.0.4,0,0,4,CINNAMON TREE,FROG,Adventure_aquarium
+A,No,No,0.0.3,0,0,3,CLOWN TREE,FROG,Adventure_aquarium
+A,No,No,0.0.2,0,0,2,DYEING POISON DART,FROG,Adventure_aquarium
+A,No,No,0.0.2,0,0,2,GOLDEN POISON DART,FROG,Adventure_aquarium
+A,No,No,0.0.3,0,0,3,GRAY TREE,FROG,Adventure_aquarium
+A,No,No,0.0.14,0,0,14,GREEN & BLACK POISON,FROG,Adventure_aquarium
+A,No,No,0.0.1,0,0,1,HOURGLASS,FROG,Adventure_aquarium
+A,No,No,0.0.16,0,0,16,RED-EYED TREE,FROG,Adventure_aquarium
+A,No,No,0.0.2,0,0,2,STRAWBERRY POISON DART,FROG,Adventure_aquarium
+A,No,No,0.0.5,0,0,5,VIETNAMESE MOSSY,FROG,Adventure_aquarium
+A,No,No,0.0.2,0,0,2,WAXY MONKEY,FROG,Adventure_aquarium
+A,No,No,0.0.7,0,0,7,YELLOW & BLACK POISON DART,FROG,Adventure_aquarium
+M,No,No,1.0.0,1,0,0,AFRICAN PYGMY,HEDGEHOG,Adventure_aquarium
+M,No,Yes,0.2.0,0,2,0,,HIPPOPOTAMUS,Adventure_aquarium
+B,No,No,0.0.1,0,0,1,LAUGHING,KOOKABURRA,Adventure_aquarium
+R,No,No,0.0.1,0,0,1,FRILLED,LIZARD,Adventure_aquarium
+B,No,No,1.0.0,1,0,0,BLUE & GOLD,MACAW,Adventure_aquarium
+B,No,No,1.0.0,1,0,0,RED-FRONTED,MACAW,Adventure_aquarium
+A,No,No,0.0.3,0,0,3,EMPEROR,NEWT,Adventure_aquarium
+B,No,No,9.8.7,9,8,7,AFRICAN,PENGUIN,Adventure_aquarium
+B,No,No,6.2.0,6,2,0,LITTLE BLUE,PENGUIN,Adventure_aquarium
+M,No,No,2.0.0,2,0,0,AFRICAN-CRESTED,PORCUPINE,Adventure_aquarium
+M,No,No,0.0.1,0,0,1,PREHENSILE-TAILED,PORCUPINE,Adventure_aquarium
+R,No,No,0.0.1,0,0,1,ALBINO CORN,SNAKE,Adventure_aquarium
+R,No,No,0.0.2,0,0,2,NORTHERN DIAMONDBACK,TERRAPIN,Adventure_aquarium
+A,No,No,0.0.1,0,0,1,FIREBELLY,TOAD,Adventure_aquarium
+A,No,No,0.0.6,0,0,6,SURINAM,TOAD,Adventure_aquarium
+R,No,No,0.0.1,0,0,1,RED-FOOTED,TORTOISE,Adventure_aquarium
+R,No,No,0.0.2,0,0,2,STAR,TORTOISE,Adventure_aquarium
+R,No,No,0.0.1,0,0,1,YELLOW-FOOTED,TORTOISE,Adventure_aquarium
+R,No,No,0.0.5,0,0,5,COMMON SNAKENECK,TURTLE,Adventure_aquarium
+R,Yes,No,1.1.0,1,1,0,GREEN SEA,TURTLE,Adventure_aquarium
+R,No,No,0.0.1,0,0,1,HELMETED,TURTLE,Adventure_aquarium
+R,Yes,No,0.1.2,0,1,2,LOGGERHEAD SEA,TURTLE,Adventure_aquarium
+R,No,No,0.0.2,0,0,2,MATAMATA,TURTLE,Adventure_aquarium
+R,No,No,0.0.1,0,0,1,ORNATE BOX,TURTLE,Adventure_aquarium
+R,No,No,0.0.2,0,0,2,PAINTED WOOD,TURTLE,Adventure_aquarium
+R,No,No,1.1.0,1,1,0,SPINY SOFT-SHELLED,TURTLE,Adventure_aquarium
+R,No,No,0.0.2,0,0,2,THREE-STRIPED MUD,TURTLE,Adventure_aquarium
+R,No,Yes,2.1.0,2,1,0,AMERICAN,ALLIGATOR,Bergen_county_zoo
+M,No,No,0.1.0,0,1,0,GIANT,ANTEATER,Bergen_county_zoo
+A,No,No,0.0.6,0,0,6,,AXOLOTL,Bergen_county_zoo
+M,No,No,.2.0,,2,0,,BETTONG,Bergen_county_zoo
+M,Yes,Yes,0.1.0,0,1,0,,BOBCAT,Bergen_county_zoo
+M,No,No,2.0.0,2,0,0,,CAPYBARA,Bergen_county_zoo
+M,No,No,1.0.0,1,0,0,,CHINCHILLA,Bergen_county_zoo
+R,No,No,2.2.0,2,2,0,,CHUCKWALLA,Bergen_county_zoo
+M,No,No,0.3.0,0,3,0,WHITE-NOSED,COATIMUNDI,Bergen_county_zoo
+B,No,No,1.1.0,1,1,0,ANDEAN,CONDOR,Bergen_county_zoo
+B,No,No,1.0.0,1,0,0,COMMON,CROW,Bergen_county_zoo
+M,No,No,2.2.0,2,2,0,BROCKET,DEER,Bergen_county_zoo
+M,No,Yes,0.0.19,0,0,19,BLACK-TAILED PRAIRIE,DOG,Bergen_county_zoo
+B,No,No,0.2.0,0,2,0,RING-NECKED,DOVE,Bergen_county_zoo
+R,No,No,1.1.0,1,1,0,BEARDED,DRAGON,Bergen_county_zoo
+B,No,No,1.0.0,1,0,0,NORTH AMERICAN WOOD,DUCK,Bergen_county_zoo
+B,No,No,0.0.2,0,0,2,BLACK-BILLED WHISTLING,DUCKS,Bergen_county_zoo
+B,Yes,No,1.2.0,1,2,0,BALD,EAGLE,Bergen_county_zoo
+B,No,No,1.0.0,1,0,0,GREAT,EGRET,Bergen_county_zoo
+B,No,No,0.1.1,0,1,1,SNOWY,EGRET,Bergen_county_zoo
+M,No,No,1.1.0,1,1,0,AMERICAN,ELK,Bergen_county_zoo
+A,No,No,0.0.3,0,0,3,BI-COLORED POISON DART,FROG,Bergen_county_zoo
+A,No,No,0.0.3,0,0,3,BLUE & YELLOW DART,FROG,Bergen_county_zoo
+A,No,No,0.0.6,0,0,6,GREEN & BLACK DART,FROG,Bergen_county_zoo
+A,No,No,0.0.7,0,0,7,GULFODULCEAN DART,FROG,Bergen_county_zoo
+A,No,No,0.0.7,0,0,7,MISSISSIPPI GOPHER,FROG,Bergen_county_zoo
+A,No,No,0.0.1,0,0,1,ORNATE HORNED,FROG,Bergen_county_zoo
+R,No,No,0.0.2,0,0,2,NEW CALEDONIAN CRESTED,GECKO,Bergen_county_zoo
+B,No,No,0.3.0,0,3,0,GREYLAG,GOOSE,Bergen_county_zoo
+M,No,No,2.1.0,2,1,0,AFRICAN (4-TOED),HEDGEHOG,Bergen_county_zoo
+B,No,No,1.0.0,1,0,0,BLACK-CROWNED NIGHT,HERON,Bergen_county_zoo
+B,No,No,1.2.0,1,2,0,SCARLET,IBIS,Bergen_county_zoo
+B,No,No,1.2.0,1,2,0,RED,JUNGLEFOWL,Bergen_county_zoo
+B,No,No,2.0.0,2,0,0,LAUGHING,KOOKABURRA,Bergen_county_zoo
+M,No,Yes,1.0.0,1,0,0,MOUNTAIN,LION,Bergen_county_zoo
+R,No,No,3.0.0,3,0,0,BLUE SPINY,LIZARD,Bergen_county_zoo
+B,No,No,0.1.0,0,1,0,BLUE & YELLOW,MACAW,Bergen_county_zoo
+B,No,No,0.1.0,0,1,0,HYACINTH,MACAW,Bergen_county_zoo
+B,No,No,0.1.0,0,1,0,SCARLET,MACAW,Bergen_county_zoo
+M,No,Yes,1.3.0,1,3,0,BLACK-HANDED SPIDER,MONKEY,Bergen_county_zoo
+M,No,Yes,3.2.0,3,2,0,GOELDI'S,MONKEY,Bergen_county_zoo
+A,No,No,0.0.5,0,0,5,ALLIGATOR,NEWT,Bergen_county_zoo
+M,No,Yes,1.1.0,1,1,0,,OCELOT,Bergen_county_zoo
+B,No,No,0.1.0,0,1,0,BARN,OWL,Bergen_county_zoo
+B,No,No,0.0.2,0,0,2,SCREECH,OWL,Bergen_county_zoo
+B,No,No,1.1.0,1,1,0,SNOWY,OWL,Bergen_county_zoo
+B,No,No,1.1.0,1,1,0,SPECTACLED,OWL,Bergen_county_zoo
+M,No,No,2.0.0,2,0,0,EUROPEAN,POLECAT,Bergen_county_zoo
+M,No,No,1.0.0,1,0,0,NORTH AMERICAN,PORCUPINE,Bergen_county_zoo
+R,No,No,0.0.1,0,0,1,BALL [ROYAL],PYTHON,Bergen_county_zoo
+M,No,No,2.1.0,2,1,0,EUROPEAN,RABBIT,Bergen_county_zoo
+M,No,Yes,1.1.0,1,1,0,LINNE'S TWO-TOED,SLOTH,Bergen_county_zoo
+R,Yes,No,0.0.2,0,0,2,CORN [RED RAT],SNAKE,Bergen_county_zoo
+R,No,No,0.0.1,0,0,1,EVERGLADES RAT,SNAKE,Bergen_county_zoo
+R,No,No,0.0.1,0,0,1,GREY RAT,SNAKE,Bergen_county_zoo
+R,No,No,0.0.1,0,0,1,YELLOW RAT,SNAKE,Bergen_county_zoo
+B,No,No,2.1.1,2,1,1,ROSEATE,SPOONBILL,Bergen_county_zoo
+M,No,No,0.1.0,0,1,0,,SPRINGHAAS,Bergen_county_zoo
+M,No,Yes,5.2.1,5,2,1,COTTON-TOP,TAMARIN,Bergen_county_zoo
+M,No,Yes,4.0.0,4,0,0,GOLDEN LION,TAMARIN,Bergen_county_zoo
+M,No,No,1.1.0,1,1,0,BAIRD'S,TAPIR,Bergen_county_zoo
+A,No,No,0.6.0,0,6,0,PUERTO RICAN CRESTED,TOAD,Bergen_county_zoo
+R,No,No,0.0.1,0,0,1,CENTRAL ASIAN,TORTOISE,Bergen_county_zoo
+R,No,No,1.4.1,1,4,1,RED-FOOTED,TORTOISE,Bergen_county_zoo
+R,No,No,1.1.0,1,1,0,YELLOW-FOOTED,TORTOISE,Bergen_county_zoo
+B,No,No,1.0.0,1,0,0,CHESTNUT-MANDIBLED,TOUCAN,Bergen_county_zoo
+R,No,No,2.1.0,2,1,0,EASTERN BOX,TURTLE,Bergen_county_zoo
+R,No,No,0.0.1,0,0,1,EASTERN MUD,TURTLE,Bergen_county_zoo
+R,No,No,0.0.4,0,0,4,EASTERN PAINTED,TURTLE,Bergen_county_zoo
+R,No,No,0.1.1,0,1,1,FALSE MAP,TURTLE,Bergen_county_zoo
+R,No,No,2.0.25,2,0,25,RED-EARED SLIDER,TURTLE,Bergen_county_zoo
+R,No,No,0.0.3,0,0,3,RIVER COOTER,TURTLE,Bergen_county_zoo
+R,No,No,2.1.5,2,1,5,SPOTTED,TURTLE,Bergen_county_zoo
+R,No,No,0.1.0,0,1,0,WOOD,TURTLE,Bergen_county_zoo
+R,No,Yes,1.1.0,1,1,0,AMERICAN,ALLIGATOR,Cape_may
+B,No,No,1.0.0,1,0,0,YELLOW-HEADED,AMAZON,Cape_may
+A,No,No,0.0.6,0,0,6,,AXOLOTL,Cape_may
+B,No,No,1.0.0,1,0,0,FAIRY,BLUEBIRD,Cape_may
+M,Yes,Yes,1.2.0,1,2,0,,BOBCAT,Cape_may
+M,No,No,1.1.0,1,1,0,,BONGO,Cape_may
+M,No,No,0.1.0,0,1,0,ARABIAN,CAMEL,Cape_may
+M,No,No,0.1.0,0,1,0,,CAPYBARA,Cape_may
+B,No,No,0.0.1,0,0,1,,CARACARA,Cape_may
+M,No,Yes,2.0.0,2,0,0,,CHEETAH,Cape_may
+M,No,No,0.0.1,0,0,1,,CHINCHILLA,Cape_may
+M,No,No,1.0.0,1,0,0,BROWN NOSED,COATI,Cape_may
+B,No,No,1.0.0,1,0,0,SALMON-CRESTED,COCKATOO,Cape_may
+R,No,No,0.0.1,0,0,1,MEXICAN ROSY BOA,CONSTRICTOR,Cape_may
+B,No,No,0.0.1,0,0,1,SUN,CONURE,Cape_may
+B,No,No,1.2.0,1,2,0,AFRICAN-CROWNED,CRANE,Cape_may
+B,No,No,1.2.0,1,2,0,FLORIDA SANDHILL,CRANE,Cape_may
+B,No,No,0.1.0,0,1,0,GREY-CAPPED EMERALD,DOVE,Cape_may
+B,No,No,0.1.0,0,1,0,MAGNIFICENT FRUIT,DOVE,Cape_may
+B,No,No,0.1.0,0,1,0,YELLOW-BREASTED GROUND,DOVE,Cape_may
+R,No,No,0.0.1,0,0,1,INLAND BEARDED,DRAGON,Cape_may
+B,No,No,0.0.2,0,0,2,CATTLE,EGRET,Cape_may
+M,No,No,0.1.0,0,1,0,AMERICAN,ELK,Cape_may
+B,No,No,0.0.2,0,0,2,AMERICAN,FLAMINGO,Cape_may
+B,No,No,1.1.0,1,1,0,GREATER,FLAMINGO,Cape_may
+A,No,No,0.0.1,0,0,1,BLUE POISON ARROW,FROG,Cape_may
+A,No,No,0.0.2,0,0,2,DYING POISON ARROW,FROG,Cape_may
+A,No,No,0.0.1,0,0,1,GREEN & BLACK POISON DART,FROG,Cape_may
+A,Yes,No,0.0.2,0,0,2,GREY TREE,FROG,Cape_may
+A,No,No,0.0.3,0,0,3,LEOPARD,FROG,Cape_may
+A,No,No,0.0.1,0,0,1,MADAGASCAR GOLDEN,FROG,Cape_may
+A,No,No,0.0.5,0,0,5,PANAMANIAN GOLDEN,FROG,Cape_may
+A,No,No,0.0.6,0,0,6,RED-EYED TREE,FROG,Cape_may
+A,No,No,0.0.1,0,0,1,WHITE'S TREE,FROG,Cape_may
+B,No,No,0.0.1,0,0,1,COMMON,GALLINULE,Cape_may
+R,No,No,0.1.1,0,1,1,LEOPARD,GECKO,Cape_may
+R,No,No,1.1.1,1,1,1,STANDING DAY,GECKO,Cape_may
+M,No,No,1.2.0,1,2,0,RETICULATED,GIRAFFE,Cape_may
+B,No,No,0.1.0,0,1,0,BAR-HEADED,GOOSE,Cape_may
+B,No,No,0.1.0,0,1,0,EGYPTIAN,GOOSE,Cape_may
+B,No,No,0.1.0,0,1,0,LESSER WHITE-FRONTED,GOOSE,Cape_may
+M,No,No,3.0.0,3,0,0,PATAGONIAN,HARE,Cape_may
+B,No,No,1.0.0,1,0,0,EASTERN RED-TAILED,HAWK,Cape_may
+B,No,No,0.1.0,0,1,0,HARRIS/BAY WING,HAWK,Cape_may
+M,No,No,0.0.1,0,0,1,,HEDGEHOG,Cape_may
+B,No,No,0.0.1,0,0,1,BLACK-CROWNED NIGHT,HERON,Cape_may
+B,No,No,1.0.0,1,0,0,BOAT-BILLED,HERON,Cape_may
+B,No,No,1.0.0,1,0,0,BLACK-HEADED,IBIS,Cape_may
+B,No,No,0.0.3,0,0,3,SACRED,IBIS,Cape_may
+B,No,No,5.5.0,5,5,0,SCARLET,IBIS,Cape_may
+R,No,No,1.2.0,1,2,0,RHINOCEROUS,IGUANA,Cape_may
+B,No,No,0.1.1,0,1,1,GIANT,KINGFISHER,Cape_may
+B,No,No,0.0.2,0,0,2,MASKED,LAPWING,Cape_may
+B,No,No,0.0.1,0,0,1,SPUR-WINGED,LAPWING,Cape_may
+M,No,Yes,4.2.0,4,2,0,RING-TAILED,LEMUR,Cape_may
+M,No,Yes,0.1.0,0,1,0,,LEOPARD,Cape_may
+M,No,Yes,1.1.0,1,1,0,SNOW,LEOPARD,Cape_may
+M,No,Yes,1.1.0,1,1,0,,LION,Cape_may
+R,No,No,0.0.3,0,0,3,BLUE SPINY,LIZARD,Cape_may
+R,No,No,0.0.1,0,0,1,DESERT SPINY,LIZARD,Cape_may
+R,No,No,0.0.1,0,0,1,GLASS,LIZARD,Cape_may
+R,No,Yes,0.0.1,0,0,1,MEXICAN BEADED,LIZARD,Cape_may
+R,No,No,1.0.0,1,0,0,TEGU,LIZARD,Cape_may
+B,No,No,1.1.0,1,1,0,BLUE & GOLD,MACAW,Cape_may
+B,No,No,1.1.0,1,1,0,HYACINTH,MACAW,Cape_may
+B,No,No,0.0.1,0,0,1,SCARLET,MACAW,Cape_may
+M,No,Yes,1.0.0,1,0,0,BLACK-TUFTED,MARMOSET,Cape_may
+M,No,Yes,1.1.0,1,1,0,COMMON,MARMOSET,Cape_may
+R,No,No,0.0.1,0,0,1,MERTEN'S WATER,MONITOR,Cape_may
+M,No,Yes,1.2.0,1,2,0,BLACK HOWLER,MONKEY,Cape_may
+M,No,Yes,2.1.0,2,1,0,DE BRAZZA'S,MONKEY,Cape_may
+R,No,Yes,0.0.1,0,0,1,GILA,MONSTER,Cape_may
+M,No,No,1.1.0,1,1,0,REEVE'S,MUNTJAC,Cape_may
+A,No,No,0.0.4,0,0,4,IBERIAN-RIBBED,NEWT,Cape_may
+A,No,No,0.0.4,0,0,4,RED-SPOTTED,NEWT,Cape_may
+M,No,No,4.2.0,4,2,0,SCIMITAR-HORNED,ORYX,Cape_may
+B,No,No,0.0.1,0,0,1,BARRED,OWL,Cape_may
+B,No,No,0.1.0,0,1,0,COMMON BARN,OWL,Cape_may
+B,No,No,1.0.0,1,0,0,GREAT-HORNED,OWL,Cape_may
+B,No,No,1.0.0,1,0,0,SNOWY,OWL,Cape_may
+M,No,Yes,1.1.0,1,1,0,RED,PANDA,Cape_may
+B,No,No,0.1.0,0,1,0,BLUE-CROWNED,PARROT,Cape_may
+B,No,No,0.0.1,0,0,1,WHITE-CROWNED,PARROT,Cape_may
+B,No,No,1.1.0,1,1,0,CRESTED WOOD,PARTRIDGE,Cape_may
+B,No,No,0.1.0,0,1,0,BLUE-CROWNED,PIGEON,Cape_may
+B,No,No,4.1.0,4,1,0,NICOBAR,PIGEON,Cape_may
+B,No,No,3.0.0,3,0,0,,PINTAIL,Cape_may
+M,No,No,2.0.0,2,0,0,AFRICAN-CRESTED,PORCUPINE,Cape_may
+R,No,No,0.0.2,0,0,2,GREEN TREE,PYTHON,Cape_may
+R,Yes,Yes,0.1.0,0,1,0,TIMBER,RATTLESNAKE,Cape_may
+B,No,No,0.1.0,0,1,0,SNOWY-HEADED,ROBIN-CHAT,Cape_may
+A,No,No,0.0.1,0,0,1,MARBLED,SALAMANDER,Cape_may
+A,Yes,No,0.0.2,0,0,2,TIGER,SALAMANDER,Cape_may
+R,No,No,0.0.1,0,0,1,BLUE-TONGUED,SKINK,Cape_may
+R,No,No,0.1.0,0,1,0,ARGENTINE BOA CONSTRICTOR,SNAKE,Cape_may
+R,No,No,0.0.1,0,0,1,BALL [ROYAL] PYTHON,SNAKE,Cape_may
+R,No,No,0.0.1,0,0,1,BLACK RAT,SNAKE,Cape_may
+R,No,No,0.1.0,0,1,0,BOA CONSTICTOR,SNAKE,Cape_may
+R,No,Yes,0.1.0,0,1,0,COPPERHEAD,SNAKE,Cape_may
+R,Yes,No,1.0.1,1,0,1,CORN [RED RAT],SNAKE,Cape_may
+R,No,No,0.0.1,0,0,1,GOPHER/PINE,SNAKE,Cape_may
+R,No,No,0.0.2,0,0,2,GREEN TREE PYTHON,SNAKE,Cape_may
+R,No,No,1.1.1,1,1,1,NORTHERN PINE,SNAKE,Cape_may
+R,No,No,1.1.1,1,1,1,ROUGH GREEN,SNAKE,Cape_may
+R,No,No,0.1.0,0,1,0,RUFOUS-BEAKED,SNAKE,Cape_may
+B,No,No,0.0.1,0,0,1,JAVA,SPARROW,Cape_may
+B,No,No,1.1.0,1,1,0,ROSEATE,SPOONBILL,Cape_may
+B,No,No,1.2.0,1,2,0,SUPERB,STARLING,Cape_may
+B,No,No,1.2.0,1,2,0,BLACK,SWAN,Cape_may
+B,No,No,0.1.0,0,1,0,BLACK-NECKED,SWAN,Cape_may
+M,No,Yes,2.2.1,2,2,1,COTTON-TOP,TAMARIN,Cape_may
+M,No,Yes,1.1.0,1,1,0,GOLDEN LION,TAMARIN,Cape_may
+M,No,Yes,1.1.0,1,1,0,GOLDEN-HEADED LION,TAMARIN,Cape_may
+B,No,No,1.1.0,1,1,0,COMMON SHAMA,THRUSH,Cape_may
+M,No,Yes,1.0.0,1,0,0,SIBERIAN,TIGER,Cape_may
+A,No,No,0.0.3,0,0,3,ORIENTAL FIRE-BELLIED,TOAD,Cape_may
+R,No,No,1.1.0,1,1,0,AFRICAN PANCAKE,TORTOISE,Cape_may
+R,No,No,0.0.1,0,0,1,AFRICAN SPURRED,TORTOISE,Cape_may
+R,No,No,1.1.2,1,1,2,ALDABRA,TORTOISE,Cape_may
+R,No,No,1.0.0,1,0,0,CENTRAL ASIAN,TORTOISE,Cape_may
+R,No,No,0.0.1,0,0,1,GALAPAGOS,TORTOISE,Cape_may
+R,No,No,0.1.0,0,1,0,HOMES HINGEBACK,TORTOISE,Cape_may
+R,No,No,0.0.1,0,0,1,LEOPARD,TORTOISE,Cape_may
+R,No,No,0.0.3,0,0,3,SOUTH AMERICAN RED-FOOTED,TORTOISE,Cape_may
+R,No,No,2.0.1,2,0,1,SOUTH AMERICAN YELLOW-FOOTED,TORTOISE,Cape_may
+B,No,No,1.0.0,1,0,0,TOCO,TOUCAN,Cape_may
+B,No,No,0.0.1,0,0,1,RUDDY,TURNSTONE,Cape_may
+R,No,No,1.1.0,1,1,0,AQUATIC BOX,TURTLE,Cape_may
+R,No,No,0.0.8,0,0,8,AUSTRALIAN SNAKE-NECKED,TURTLE,Cape_may
+R,No,No,0.0.1,0,0,1,CHINESE BIG-HEADED,TURTLE,Cape_may
+R,No,No,0.0.1,0,0,1,COMMON BOX,TURTLE,Cape_may
+R,No,No,1.0.0,1,0,0,COMMON MAP,TURTLE,Cape_may
+R,No,No,0.0.1,0,0,1,EAST AFRICAN BLACK MUD,TURTLE,Cape_may
+R,No,No,1.2.3,1,2,3,EASTERN BOX,TURTLE,Cape_may
+R,No,No,0.0.1,0,0,1,EASTERN MUD,TURTLE,Cape_may
+R,No,No,1.1.0,1,1,0,FLORIDA SOFT SHELL,TURTLE,Cape_may
+R,No,No,0.0.1,0,0,1,HELMETED,TURTLE,Cape_may
+R,No,No,0.0.4,0,0,4,MALAYAN BOX (S. ASIAN),TURTLE,Cape_may
+R,No,No,3.0.0,3,0,0,RED-BELLIED SHORT-NECK,TURTLE,Cape_may
+R,No,No,0.1.0,0,1,0,SIEBERNROCK'S SNAKE-NECKED,TURTLE,Cape_may
+R,No,No,1.0.1,1,0,1,SPOTTED,TURTLE,Cape_may
+R,No,No,0.0.2,0,0,2,THREE-TOED BOX,TURTLE,Cape_may
+R,No,No,4.0.4,4,0,4,YELLOW-MARGINED BOX,TURTLE,Cape_may
+R,No,Yes,1.0.0,1,0,0,EYELASH PALM PIT,VIPER,Cape_may
+M,No,No,5.3.0,5,3,0,BENNETT'S (RED-NECKED),WALLABY,Cape_may
+M,No,Yes,1.0.0,1,0,0,WHITE-FRONTED (PARMA),WALLABY,Cape_may
+M,No,No,3.2.0,3,2,0,,WATUSI,Cape_may
+B,No,No,0.1.0,0,1,0,TAVETA GOLDEN,WEAVER,Cape_may
+M,No,No,2.2.0,2,2,0,COMMON,ZEBRA,Cape_may
+M,No,Yes,0.1.0,0,1,0,ASIATIC BLACK,BEAR,Cohanzick_zoo
+M,No,Yes,1.2.0,1,2,0,FISHING,CAT,Cohanzick_zoo
+M,No,No,1.0.0,1,0,0,,CHINCHILLA,Cohanzick_zoo
+M,No,Yes,0.3.0,0,3,0,WHITE-NOSED,COATIMUNDI,Cohanzick_zoo
+B,No,No,0.1.1,0,1,1,MOLUCCAN,COCKATOO,Cohanzick_zoo
+B,No,No,0.1.1,0,1,1,SAND-HILL,CRANE,Cohanzick_zoo
+M,No,Yes,2.1.0,2,1,0,NEW GUINEA SINGING,DOG,Cohanzick_zoo
+R,No,No,0.0.3,0,0,3,BEARDED,DRAGON,Cohanzick_zoo
+M,No,Yes,1.0.0,1,0,0,FENNEC,FOX,Cohanzick_zoo
+A,No,No,0.0.2,0,0,2,LEOPARD,FROG,Cohanzick_zoo
+M,Yes,Yes,1.0.0,1,0,0,WHITE-HANDED,GIBBON,Cohanzick_zoo
+B,No,No,1.0.0,1,0,0,RED-TAILED,HAWK,Cohanzick_zoo
+M,No,Yes,2.0.0,2,0,0,,KINKAJOU,Cohanzick_zoo
+M,Yes,Yes,1.2.0,1,2,0,RING-TAILED,LEMUR,Cohanzick_zoo
+M,No,Yes,1.1.0,1,1,0,MOUNTAIN,LION,Cohanzick_zoo
+B,No,No,1.0.0,1,0,0,BLUE & GOLD,MACAW,Cohanzick_zoo
+M,No,Yes,4.1.0,4,1,0,COMMON,MARMOSET,Cohanzick_zoo
+M,No,Yes,1.1.0,1,1,0,WEID'S,MARMOSET,Cohanzick_zoo
+M,No,Yes,1.0.0,1,0,0,OWL,MONKEY,Cohanzick_zoo
+B,No,No,1.0.0,1,0,0,BARN,OWL,Cohanzick_zoo
+B,No,No,0.0.1,0,0,1,BARRED,OWL,Cohanzick_zoo
+B,No,No,1.1.0,1,1,0,EASTERN SCREECH,OWL,Cohanzick_zoo
+B,No,No,1.0.1,1,0,1,GREAT-HORNED,OWL,Cohanzick_zoo
+B,No,No,1.0.0,1,0,0,SPECTACLED,OWL,Cohanzick_zoo
+B,No,No,1.0.0,1,0,0,SILVER,PHEASANT,Cohanzick_zoo
+M,No,No,0.1.0,0,1,0,AFRICAN-CRESTED,PORCUPINE,Cohanzick_zoo
+M,No,Yes,0.1.0,0,1,0,PREHENSILE-TAILED,PORCUPINE,Cohanzick_zoo
+R,No,No,1.0.0,1,0,0,BALL,PYTHON,Cohanzick_zoo
+M,No,Yes,1.1.0,1,1,0,AFRICAN,SERVAL,Cohanzick_zoo
+R,No,No,0.0.1,0,0,1,BLUE-TONGUED,SKINK,Cohanzick_zoo
+M,No,No,0.1.0,0,1,0,STRIPED,SKUNK,Cohanzick_zoo
+A,No,No,0.0.2,0,0,2,CANE,TOAD,Cohanzick_zoo
+R,No,No,1.0.0,1,0,0,AFRICAN-SPURRED,TORTOISE,Cohanzick_zoo
+R,No,No,1.0.0,1,0,0,LEOPARD,TORTOISE,Cohanzick_zoo
+B,No,No,1.0.0,1,0,0,,TRAGOPAN,Cohanzick_zoo
+R,No,No,0.0.1,0,0,1,FLORIDA SOFT-SHELLED,TURTLE,Cohanzick_zoo
+R,No,No,1.0.0,1,0,0,THREE-TOED BOX,TURTLE,Cohanzick_zoo
+R,No,No,0.0.1,0,0,1,,UROMASTYX,Cohanzick_zoo
+R,No,Yes,0.0.1,0,0,1,AMERICAN,ALLIGATOR,Jenkinsons_aquarium
+B,No,No,0.1.0,0,1,0,MOLLUCAN,COCKATOO,Jenkinsons_aquarium
+R,No,No,0.1.0,0,1,0,BEARDED,DRAGON,Jenkinsons_aquarium
+A,No,No,1.1.0,1,1,0,AFRICAN CLAWED,FROG,Jenkinsons_aquarium
+A,No,No,0.0.4,0,0,4,AURATUS DART,FROG,Jenkinsons_aquarium
+A,No,No,0.0.2,0,0,2,BLUE POISON DART,FROG,Jenkinsons_aquarium
+A,No,No,0.0.4,0,0,4,COBALT TINC DART,FROG,Jenkinsons_aquarium
+A,No,No,0.0.10,0,0,10,NORTHERN GREY TREE,FROG,Jenkinsons_aquarium
+A,No,No,0.0.1,0,0,1,SOUTHERN LEOPARD,FROG,Jenkinsons_aquarium
+A,No,No,0.0.3,0,0,3,VIETNAMESE MOSSY,FROG,Jenkinsons_aquarium
+A,No,No,0.0.3,0,0,3,WHITE'S TREE,FROG,Jenkinsons_aquarium
+A,No,No,0.2.1,0,2,1,YELLOW/BLACK POISON DART,FROG,Jenkinsons_aquarium
+R,No,No,1.0.0,1,0,0,LEOPARD,GECKO,Jenkinsons_aquarium
+R,No,No,0.0.2,0,0,2,STANDING'S DAY,GECKO,Jenkinsons_aquarium
+B,No,No,0.2.0,0,2,0,BLUE & GOLD,MACAW,Jenkinsons_aquarium
+B,No,No,0.1.0,0,1,0,SCARLET,MACAW,Jenkinsons_aquarium
+M,No,Yes,1.0.0,1,0,0,PYGMY,MARMOSET,Jenkinsons_aquarium
+A,No,No,0.0.1,0,0,1,RED-SPOTTED,NEWT,Jenkinsons_aquarium
+B,No,No,2.0.0,2,0,0,EASTERN SCREECH,OWL,Jenkinsons_aquarium
+B,No,No,12.10.0,12,10,0,AFRICAN,PENGUIN,Jenkinsons_aquarium
+R,No,No,0.1.0,0,1,0,BALL,PYTHON,Jenkinsons_aquarium
+R,No,No,1.0.0,1,0,0,BURMESE,PYTHON,Jenkinsons_aquarium
+A,Yes,No,1.1.0,1,1,0,TIGER,SALAMANDER,Jenkinsons_aquarium
+M,No,No,0.2.0,0,2,0,HARBOR,SEAL,Jenkinsons_aquarium
+R,No,No,0.0.1,0,0,1,BLUE-TONGUED,SKINK,Jenkinsons_aquarium
+R,No,No,1.0.0,1,0,0,NORTHERN PINE,SNAKE,Jenkinsons_aquarium
+M,No,Yes,1.0.0,1,0,0,SADDLEBACK,TAMARIN,Jenkinsons_aquarium
+A,No,No,0.0.3,0,0,3,EASTERN SPADEFOOT,TOAD,Jenkinsons_aquarium
+A,No,No,0.0.2,0,0,2,SQUARE-MARKED,TOAD,Jenkinsons_aquarium
+R,No,No,3.0.0,3,0,0,PANCAKE,TORTOISE,Jenkinsons_aquarium
+R,No,No,1.1.1,1,1,1,COMMON MAP,TURTLE,Jenkinsons_aquarium
+R,No,No,0.0.1,0,0,1,COMMON MUSK,TURTLE,Jenkinsons_aquarium
+R,No,No,1.0.0,1,0,0,EASTERN BOX,TURTLE,Jenkinsons_aquarium
+R,No,No,2.0.0,2,0,0,EASTERN PAINTED,TURTLE,Jenkinsons_aquarium
+R,No,No,0.0.1,0,0,1,FLY RIVER,TURTLE,Jenkinsons_aquarium
+R,Yes,No,0.1.0,0,1,0,KEMP'S RIDLEY SEA,TURTLE,Jenkinsons_aquarium
+R,No,No,1.0.0,1,0,0,MISSISSIPPI MAP,TURTLE,Jenkinsons_aquarium
+R,No,No,0.1.0,0,1,0,SOUTHERN PAINTED,TURTLE,Jenkinsons_aquarium
+R,No,No,1.2.0,1,2,0,SPOTTED,TURTLE,Jenkinsons_aquarium
+R,No,No,0.1.0,0,1,0,TEXAS MAP,TURTLE,Jenkinsons_aquarium
+R,No,No,0.0.1,0,0,1,YELLOW-BELLY SLIDER,TURTLE,Jenkinsons_aquarium
+R,No,No,1.0.0,1,0,0,DUMERIL'S GROUND,BOA,Liberty_SC
+R,No,No,0.0.1,0,0,1,PANTHER,CHAMELEON,Liberty_SC
+M,No,No,1.1.0,1,1,0,,CHINCHILLA,Liberty_SC
+M,No,No,4.0.0,4,0,0,,DEGU,Liberty_SC
+R,No,No,2.0.1,2,0,1,BEARDED,DRAGON,Liberty_SC
+B,No,No,1.2.0,1,2,0,SAFFRON,FINCH,Liberty_SC
+A,No,No,0.0.1,0,0,1,GIANT WAXY MONKEY TREE,FROG,Liberty_SC
+A,No,No,0.0.8,0,0,8,GREEN & BLACK POISON DART,FROG,Liberty_SC
+A,No,No,0.0.1,0,0,1,MOSSY,FROG,Liberty_SC
+A,No,No,0.0.17,0,0,17,SPLASHBACK POISON DART,FROG,Liberty_SC
+A,No,No,1.0.7,1,0,7,STRAWBERRY POISON DART,FROG,Liberty_SC
+A,No,No,0.0.23,0,0,23,YELLOW & BLUE POISON DART,FROG,Liberty_SC
+R,No,No,0.1.0,0,1,0,HENKLE'S LEAF-TAILED,GECKO,Liberty_SC
+M,No,No,1.1.0,1,1,0,SUGAR,GLIDER,Liberty_SC
+M,No,No,1.0.0,1,0,0,FOUR-TOED,HEDGEHOG,Liberty_SC
+R,No,No,2.1.0,2,1,0,EASTERN,KINGSNAKE,Liberty_SC
+R,No,No,1.0.0,1,0,0,SCARLET,KINGSNAKE,Liberty_SC
+R,No,No,0.0.2,0,0,2,FRILLED,LIZARD,Liberty_SC
+R,No,No,1.0.0,1,0,0,TEGU,LIZARD,Liberty_SC
+B,No,No,1.0.0,1,0,0,GREEN-WINGED,MACAW,Liberty_SC
+R,No,Yes,1.1.0,1,1,0,GILA,MONSTER,Liberty_SC
+R,No,No,2.1.0,2,1,0,BALL,PYTHON,Liberty_SC
+R,No,No,1.0.1,1,0,1,CALABAR,PYTHON,Liberty_SC
+R,No,No,0.1.0,0,1,0,GREEN TREE,PYTHON,Liberty_SC
+R,No,No,1.0.0,1,0,0,JUNGLE CARPET,PYTHON,Liberty_SC
+A,No,No,0.0.1,0,0,1,MARBLED,SALAMANDER,Liberty_SC
+A,Yes,No,0.0.2,0,0,2,TIGER,SALAMANDER,Liberty_SC
+R,No,No,0.0.1,0,0,1,BLUE-TONGUED,SKINK,Liberty_SC
+R,Yes,No,0.0.1,0,0,1,CORN [RED RAT],SNAKE,Liberty_SC
+R,No,No,1.0.0,1,0,0,EASTERN MILK,SNAKE,Liberty_SC
+R,No,No,1.0.0,1,0,0,EVERGLADES RAT,SNAKE,Liberty_SC
+R,No,No,2.0.0,2,0,0,NORTHERN PINE,SNAKE,Liberty_SC
+R,No,No,0.0.1,0,0,1,PUEBLAN MILK,SNAKE,Liberty_SC
+M,No,Yes,1.4.0,1,4,0,COTTON-TOP,TAMARIN,Liberty_SC
+R,No,No,0.1.2,0,1,2,DIAMONDBACK,TERRAPIN,Liberty_SC
+A,No,No,0.0.3,0,0,3,MARINE,TOAD,Liberty_SC
+R,No,No,2.5.1,2,5,1,S.A. RED-FOOTED,TORTOISE,Liberty_SC
+R,No,No,0.0.1,0,0,1,ALLIGATOR SNAPPING,TURTLE,Liberty_SC
+R,No,No,1.5.0,1,5,0,EASTERN BOX,TURTLE,Liberty_SC
+R,No,No,1.0.0,1,0,0,WOOD,TURTLE,Liberty_SC
+R,No,Yes,0.1.0,0,1,0,GABOON,VIPER,Liberty_SC
+B,Yes,No,1.0.0,1,0,0,GOLDEN,EAGLE,McFaul_environmental_center
+A,No,No,0.0.3,0,0,3,TREE,FROG,McFaul_environmental_center
+B,No,No,0.0.2,0,0,2,RED-TAILED,HAWK,McFaul_environmental_center
+B,No,No,1.0.0,1,0,0,AMERICAN,KESTREL,McFaul_environmental_center
+R,No,No,0.0.1,0,0,1,ARIZONA,KINGSNAKE,McFaul_environmental_center
+R,No,No,0.0.1,0,0,1,EASTERN,KINGSNAKE,McFaul_environmental_center
+B,No,No,0.0.1,0,0,1,SCREECH,OWL,McFaul_environmental_center
+R,Yes,No,1.2.0,1,2,0,CORN [RED RAT],SNAKE,McFaul_environmental_center
+R,No,No,0.0.1,0,0,1,HONDURAN MILK,SNAKE,McFaul_environmental_center
+B,No,No,0.1.0,0,1,0,MUTE,SWAN,McFaul_environmental_center
+R,No,No,0.1.0,0,1,0,DIAMONDBACK,TERRAPIN,McFaul_environmental_center
+A,No,No,0.0.2,0,0,2,AMERICAN,TOAD,McFaul_environmental_center
+R,No,No,0.0.1,0,0,1,RUSSIAN,TORTOISE,McFaul_environmental_center
+R,No,No,0.0.1,0,0,1,SULCATTA,TORTOISE,McFaul_environmental_center
+R,No,No,0.0.30,0,0,30,BOX,TURTLE,McFaul_environmental_center
+R,No,No,0.1.0,0,1,0,CHINESE BOX HYBRID,TURTLE,McFaul_environmental_center
+R,No,No,0.2.0,0,2,0,PAINTED,TURTLE,McFaul_environmental_center
+R,No,No,1.0.0,1,0,0,SOFT-SHELLED,TURTLE,McFaul_environmental_center
+R,No,No,0.0.10,0,0,10,WOOD,TURTLE,McFaul_environmental_center
+B,No,No,0.1.1,0,1,1,BLUE-FRONTED,AMAZON,Popcorn_park
+M,No,Yes,1.0.0,1,0,0,,BABOON,Popcorn_park
+R,No,Yes,0.0.2,0,0,2,DWARF,CAIMAN,Popcorn_park
+B,No,No,0.0.2,0,0,2,GOFFIN'S,COCKATOO,Popcorn_park
+B,No,No,0.0.2,0,0,2,UMBRELLA,COCKATOO,Popcorn_park
+M,No,No,1.0.0,1,0,0,FALLOW,DEER,Popcorn_park
+M,No,Yes,0.1.0,0,1,0,RUPPELL'S,FOX,Popcorn_park
+B,No,No,0.0.1,0,0,1,RED-TAILED,HAWK,Popcorn_park
+M,No,Yes,1.0.0,1,0,0,RED,KANGAROO,Popcorn_park
+M,No,Yes,0.1.0,0,1,0,,KINKAJOU,Popcorn_park
+M,No,Yes,0.1.2,0,1,2,AFRICAN,LION,Popcorn_park
+M,No,Yes,3.1.0,3,1,0,MOUNTAIN,LION,Popcorn_park
+M,No,Yes,1.0.0,1,0,0,PIG-TAIL,MACAQUE,Popcorn_park
+M,No,Yes,1.0.0,1,0,0,RHESUS,MACAQUE,Popcorn_park
+B,No,No,0.0.1,0,0,1,BLUE & GOLD,MACAW,Popcorn_park
+B,No,No,0.0.1,0,0,1,CATALINA,MACAW,Popcorn_park
+B,No,No,0.0.2,0,0,2,GREEN-WINGED,MACAW,Popcorn_park
+B,No,No,0.0.1,0,0,1,SEVERE,MACAW,Popcorn_park
+M,No,Yes,2.2.0,2,2,0,CAPUCHIN,MONKEY,Popcorn_park
+M,No,Yes,0.1.0,0,1,0,PATAS,MONKEY,Popcorn_park
+M,No,No,1.0.0,1,0,0,REEVE'S,MUNTJAC,Popcorn_park
+B,No,No,0.0.1,0,0,1,AFRICAN GREY,PARROT,Popcorn_park
+R,No,No,0.0.1,0,0,1,BURMESE,PYTHON,Popcorn_park
+M,No,Yes,1.0.0,1,0,0,AFRICAN,SERVAL,Popcorn_park
+M,No,Yes,2.2.0,2,2,0,,TIGER,Popcorn_park
+R,No,No,1.0.0,1,0,0,ALDABRA,TORTOISE,Popcorn_park
+R,No,No,0.0.2,0,0,2,LEOPARD,TORTOISE,Popcorn_park
+R,No,No,0.0.3,0,0,3,RED-FOOTED,TORTOISE,Popcorn_park
+R,No,No,0.0.1,0,0,1,RUSSIAN,TORTOISE,Popcorn_park
+R,No,No,0.0.2,0,0,2,SULCATA,TORTOISE,Popcorn_park
+R,No,No,0.0.2,0,0,2,CHICKEN SLIDER,TURTLE,Popcorn_park
+R,No,No,0.0.2,0,0,2,MAP,TURTLE,Popcorn_park
+R,No,No,0.0.1,0,0,1,RED-BELLIED,TURTLE,Popcorn_park
+R,No,No,0.0.9,0,0,9,RED-EARED SLIDER,TURTLE,Popcorn_park
+M,No,No,2.9.1,2,9,1,,ADDAX,Six_flags
+M,No,No,3.1.10,3,1,10,RED,ANKOLI,Six_flags
+M,No,No,0.1.0,0,1,0,SABLE,ANTELOPE,Six_flags
+M,No,No,19.19.11,19,19,11,,AOUDAD,Six_flags
+M,No,Yes,27.28.65,27,28,65,ANUBIS,BABOON,Six_flags
+M,No,Yes,13.14.1,13,14,1,BROWN,BEAR,Six_flags
+M,No,Yes,10.25.10,10,25,10,AMERICAN,BISON,Six_flags
+M,No,No,39.46.13,39,46,13,,BLACKBUCK,Six_flags
+M,No,No,1.2.0,1,2,0,ASIAN WATER,BUFFALO,Six_flags
+B,No,No,0.1.3,0,1,3,EAST AFRICAN,CRANE,Six_flags
+M,No,No,36.44.7,36,44,7,FALLOW,DEER,Six_flags
+M,No,No,7.2.16,7,2,16,,ELAND,Six_flags
+M,No,Yes,0.7.0,0,7,0,AFRICAN,ELEPHANT,Six_flags
+M,No,No,11.24.3,11,24,3,AMERICAN,ELK,Six_flags
+B,No,No,0.0.5,0,0,5,,FLAMINGO,Six_flags
+M,No,No,2.0.0,2,0,0,DAMA,GAZELLE,Six_flags
+M,No,No,1.9.0,1,9,0,,GIRAFFE,Six_flags
+M,No,No,1.6.1,1,6,1,WHITE-BEARDED,GNU,Six_flags
+M,No,No,3.13.3,3,13,3,WHITE-TAILED,GNU,Six_flags
+B,No,No,0.0.38,0,0,38,EGYPTIAN,GOOSE,Six_flags
+B,No,No,0.0.1,0,0,1,SOUTHERN,HORNBILL,Six_flags
+B,No,No,0.0.10,0,0,10,SACRED,IBIS,Six_flags
+M,No,No,15.18.0,15,18,0,RED,KANGAROO,Six_flags
+M,No,No,4.9.0,4,9,0,GREATER,KUDU,Six_flags
+M,No,No,2.4.0,2,4,0,RED,LECHWE,Six_flags
+M,No,Yes,11.1.0,11,1,0,AFRICAN,LION,Six_flags
+M,No,No,1.5.0,1,5,0,CALIFORNIA SEA,LION,Six_flags
+M,No,No,1.14.0,1,14,0,,NILGAI,Six_flags
+M,No,No,1.4.0,1,4,0,BEISA,ORYX,Six_flags
+M,No,No,11.23.0,11,23,0,SCIMITAR HORNED,ORYX,Six_flags
+M,No,Yes,2.7.0,2,7,0,WHITE,RHINOCEROS,Six_flags
+B,No,No,0.1.0,0,1,0,MARABOU,STORK,Six_flags
+B,No,No,3.2.11,3,2,11,BLACK,SWAN,Six_flags
+B,No,No,1.1.4,1,1,4,MUTE,SWAN,Six_flags
+M,No,Yes,3.3.0,3,3,0,BENGAL,TIGER,Six_flags
+M,No,Yes,2.3.0,2,3,0,SIBERIAN,TIGER,Six_flags
+R,No,No,1.1.0,1,1,0,ALDABRA,TORTOISE,Six_flags
+M,No,No,3.13.0,3,13,0,ELIPIS,WATERBUCK,Six_flags
+M,No,No,2.7.0,2,7,0,,YAK,Six_flags
+M,No,No,5.24.6,5,24,6,,ZEBRA,Six_flags
+R,No,Yes,0.0.4,0,0,4,,ALLIGATOR,Space_farm
+B,No,No,0.0.1,0,0,1,DOUBLE YELLOW-HEADED,AMAZON,Space_farm
+M,No,No,1.1.0,1,1,0,,AOUDAD,Space_farm
+M,No,Yes,2.0.0,2,0,0,,BABOON,Space_farm
+M,No,No,1.1.0,1,1,0,,BADGER,Space_farm
+M,No,Yes,1.1.0,1,1,0,HIMALAYAN,BEAR,Space_farm
+M,No,Yes,1.2.2,1,2,2,JAPANESE BLACK,BEAR,Space_farm
+M,No,Yes,2.5.0,2,5,0,SYRIAN (BROWN),BEAR,Space_farm
+M,Yes,Yes,2.1.0,2,1,0,,BOBCAT,Space_farm
+M,No,No,1.0.0,1,0,0,PATAGONIAN,CAVY,Space_farm
+B,No,No,1.1.0,1,1,0,MOLLUCAN,COCKATOO,Space_farm
+R,No,No,1.0.0,1,0,0,RED-TAILED BOA,CONSTRICTOR,Space_farm
+R,No,Yes,0.0.2,0,0,2,SOUTHERN,COPPERHEAD,Space_farm
+M,No,No,17.58.10,17,58,10,FALLOW,DEER,Space_farm
+M,No,Yes,6.21.8,6,21,8,SIKA,DEER,Space_farm
+M,No,Yes,5.5.0,5,5,0,PRAIRIE,DOG,Space_farm
+M,No,Yes,1.8.3,1,8,3,AMERICAN,ELK,Space_farm
+M,No,Yes,1.1.0,1,1,0,RED,FOX,Space_farm
+M,No,Yes,0.1.0,0,1,0,,GENET,Space_farm
+B,No,No,1.1.0,1,1,0,RED-TAILED,HAWK,Space_farm
+M,No,Yes,2.1.0,2,1,0,,HYENA,Space_farm
+M,No,Yes,0.0.1,0,0,1,,JAGUAR,Space_farm
+M,No,No,1.1.0,1,1,0,,KANGAROO,Space_farm
+R,No,No,0.0.1,0,0,1,,KINGSNAKE,Space_farm
+M,Yes,Yes,3.3.0,3,3,0,RING-TAILED,LEMUR,Space_farm
+M,Yes,Yes,1.1.0,1,1,0,,LEOPARD,Space_farm
+M,No,Yes,1.1.0,1,1,0,AFRICAN,LION,Space_farm
+M,No,Yes,1.0.0,1,0,0,MOUNTAIN,LION,Space_farm
+M,No,Yes,1.0.0,1,0,0,CANADIAN,LYNX,Space_farm
+M,No,No,2.0.0,2,0,0,RHESUS,MACAQUE,Space_farm
+B,No,No,0.0.1,0,0,1,GREEN-WINGED,MACAW,Space_farm
+R,No,Yes,0.0.3,0,0,3,COTTONMOUTH,MOCCASIN,Space_farm
+M,No,No,1.1.0,1,1,0,AMERICAN,PORCUPINE,Space_farm
+R,No,No,0.0.1,0,0,1,ALBINO,PYTHON,Space_farm
+R,No,No,0.0.1,0,0,1,RETICULATED,PYTHON,Space_farm
+R,No,Yes,0.0.7,0,0,7,CANEBREAK,RATTLESNAKE,Space_farm
+M,No,Yes,1.0.0,1,0,0,AFRICAN,SERVAL,Space_farm
+M,No,No,7.8.15,7,8,15,MOUFLON,SHEEP,Space_farm
+R,No,No,0.0.9,0,0,9,BLACK RAT,SNAKE,Space_farm
+M,No,Yes,1.2.0,1,2,0,BENGAL,TIGER,Space_farm
+M,Yes,Yes,0.2.0,0,2,0,TIMBER,WOLF,Space_farm
+R,No,Yes,1.0.0,1,0,0,AMERICAN,ALLIGATOR,Turtleback_zoo
+R,No,No,0.0.5,0,0,5,HISPANIOLAN GIANT,ANOLE,Turtleback_zoo
+M,No,No,0.1.0,0,1,0,SIX-BANDED,ARMADILLO,Turtleback_zoo
+M,No,No,1.0.0,1,0,0,AFRICAN WILD,ASS,Turtleback_zoo
+A,No,No,0.0.10,0,0,10,,AXOLOTL,Turtleback_zoo
+M,No,Yes,0.2.0,0,2,0,NORTH AMERICAN BLACK,BEAR,Turtleback_zoo
+M,No,Yes,1.2.0,1,2,0,AMERICAN,BISON,Turtleback_zoo
+R,No,No,0.1.0,0,1,0,NEW GUINEA,BOA,Turtleback_zoo
+R,No,No,1.0.0,1,0,0,ROSY,BOA,Turtleback_zoo
+M,Yes,Yes,0.1.0,0,1,0,,BOBCAT,Turtleback_zoo
+M,No,No,0.2.0,0,2,0,,CAPYBARA,Turtleback_zoo
+M,No,No,0.2.0,0,2,0,LONG-TAILED,CHINCHILLA,Turtleback_zoo
+B,No,No,0.1.0,0,1,0,ANDEAN,CONDOR,Turtleback_zoo
+M,No,Yes,1.1.0,1,1,0,,COUGAR,Turtleback_zoo
+B,No,No,1.0.0,1,0,0,WHITE-NAPED,CRANE,Turtleback_zoo
+M,No,Yes,7.4.4,7,4,4,BLACK-TAILED PRAIRIE,DOG,Turtleback_zoo
+B,No,No,0.0.1,0,0,1,MOURNING,DOVE,Turtleback_zoo
+R,No,No,1.0.0,1,0,0,INLAND BEARDED,DRAGON,Turtleback_zoo
+R,No,No,1.0.0,1,0,0,KOMODO,DRAGON,Turtleback_zoo
+B,Yes,No,1.1.0,1,1,0,BALD,EAGLE,Turtleback_zoo
+M,No,No,2.0.0,2,0,0,,FERRET,Turtleback_zoo
+M,No,Yes,0.2.0,0,2,0,GRAY,FOX,Turtleback_zoo
+M,No,Yes,0.2.0,0,2,0,RED,FOX,Turtleback_zoo
+A,No,No,0.0.2,0,0,2,GREEN & BLACK POISON DART,FROG,Turtleback_zoo
+A,No,No,0.0.5,0,0,5,GULFODULCEAN POISON DART,FROG,Turtleback_zoo
+A,No,No,0.0.4,0,0,4,TOMATO,FROG,Turtleback_zoo
+A,No,No,0.0.1,0,0,1,VIETNAMESE MOSSY,FROG,Turtleback_zoo
+A,No,No,1.0.0,1,0,0,WHITE'S TREE,FROG,Turtleback_zoo
+A,No,No,0.0.4,0,0,4,YELLOW & BLUE POISON DART,FROG,Turtleback_zoo
+B,No,No,1.0.0,1,0,0,TAWNY,FROGMOUTH,Turtleback_zoo
+R,No,No,1.2.0,1,2,0,LEOPARD,GECKO,Turtleback_zoo
+M,No,Yes,2.1.0,2,1,0,WHITE CHEEKED,GIBBON,Turtleback_zoo
+B,No,No,0.1.0,0,1,0,AMERICAN KESTRAL/SPARROW,HAWK,Turtleback_zoo
+B,No,No,0.1.0,0,1,0,EASTERN RED-TAILED,HAWK,Turtleback_zoo
+B,No,No,0.2.0,0,2,0,HARRIS/BAY WINGED,HAWK,Turtleback_zoo
+M,No,No,1.1.0,1,1,0,FOUR-TOED,HEDGEHOG,Turtleback_zoo
+A,No,No,0.0.1,0,0,1,,HELLBENDER,Turtleback_zoo
+B,No,No,1.6.0,1,6,0,SCARLET,IBIS,Turtleback_zoo
+M,No,Yes,0.1.0,0,1,0,,JAGUAR,Turtleback_zoo
+B,No,No,2.0.0,2,0,0,RED,JUNGLEFOWL,Turtleback_zoo
+M,No,No,3.0.0,3,0,0,EASTERN GREY,KANGAROO,Turtleback_zoo
+B,No,No,1.1.0,1,1,0,LAUGHING,KOOKABURRA,Turtleback_zoo
+M,No,Yes,1.1.0,1,1,0,AMUR,LEOPARD,Turtleback_zoo
+M,No,Yes,1.1.0,1,1,0,SNOW,LEOPARD,Turtleback_zoo
+R,No,No,1.2.0,1,2,0,CHINESE CROCODILE,LIZARD,Turtleback_zoo
+R,No,Yes,0.0.1,0,0,1,MEXICAN BEADED,LIZARD,Turtleback_zoo
+B,No,No,1.0.0,1,0,0,,MACAW,Turtleback_zoo
+B,No,No,0.1.0,0,1,0,MILITARY,MACAW,Turtleback_zoo
+B,No,No,1.1.0,1,1,0,RED-BILLED BLUE,MAGPIE,Turtleback_zoo
+R,No,No,1.0.0,1,0,0,EMERALD,MONITOR,Turtleback_zoo
+R,No,No,0.1.0,0,1,0,WATER,MONITOR,Turtleback_zoo
+M,No,No,1.0.0,1,0,0,CHINESE,MUNTJAC,Turtleback_zoo
+A,No,No,0.0.2,0,0,2,KAISER'S,NEWT,Turtleback_zoo
+M,No,No,1.1.0,1,1,0,NORTH AMERICAN RIVER,OTTER,Turtleback_zoo
+B,No,No,0.2.0,0,2,0,BARRED,OWL,Turtleback_zoo
+B,No,No,2.0.0,2,0,0,BURROWING,OWL,Turtleback_zoo
+B,No,No,0.1.1,0,1,1,EASTERN SCREECH,OWL,Turtleback_zoo
+B,No,No,1.0.0,1,0,0,WESTERN SCREECH,OWL,Turtleback_zoo
+M,No,No,1.1.0,1,1,0,RED,PANDA,Turtleback_zoo
+B,No,No,1.1.0,1,1,0,CRESTED WOOD,PARTRIDGE,Turtleback_zoo
+B,No,No,7.4.0,7,4,0,JACKASS,PENGUIN,Turtleback_zoo
+B,No,No,0.1.0,0,1,0,HIMALAYAN IMPEYAN,PHEASANT,Turtleback_zoo
+M,No,No,1.0.0,1,0,0,MEXICAN HAIRY DWARF,PORCUPINE,Turtleback_zoo
+M,No,No,2.1.0,2,1,0,NORTH AMERICAN,PORCUPINE,Turtleback_zoo
+M,No,No,0.1.0,0,1,0,PREHENSILE-TAILED,PORCUPINE,Turtleback_zoo
+R,No,No,2.0.1,2,0,1,BALL [ROYAL],PYTHON,Turtleback_zoo
+R,No,No,1.0.0,1,0,0,GREEN TREE,PYTHON,Turtleback_zoo
+R,No,No,0.1.0,0,1,0,RETICULATED,PYTHON,Turtleback_zoo
+M,No,No,1.2.0,1,2,0,EUROPEAN,RABBIT,Turtleback_zoo
+R,No,No,1.0.0,1,0,0,RED MOUNTAIN,RACER,Turtleback_zoo
+B,No,No,1.1.0,1,1,0,,RAVEN,Turtleback_zoo
+M,No,No,2.1.0,2,1,0,CALIFORNIA,SEA LION,Turtleback_zoo
+M,No,No,2.4.0,2,4,0,MOUFLON,SHEEP,Turtleback_zoo
+B,No,No,0.1.0,0,1,0,SOUTH AFRICAN,SHELDUCK,Turtleback_zoo
+R,No,No,1.1.0,1,1,0,BLUE-TONGUED,SKINK,Turtleback_zoo
+R,No,No,0.0.1,0,0,1,FERNAND'S,SKINK,Turtleback_zoo
+R,No,No,2.0.0,2,0,0,PREHENSILE-TAILED,SKINK,Turtleback_zoo
+M,No,Yes,1.0.0,1,0,0,HOFFMAN'S TWO-TOED,SLOTH,Turtleback_zoo
+R,Yes,No,0.2.0,0,2,0,CORN [RED RAT],SNAKE,Turtleback_zoo
+R,No,No,0.0.1,0,0,1,NORTHERN PINE,SNAKE,Turtleback_zoo
+R,No,No,1.0.0,1,0,0,RHINOCEROS,SNAKE,Turtleback_zoo
+R,No,No,0.0.5,0,0,5,TENTACLED,SNAKE,Turtleback_zoo
+B,No,No,1.1.0,1,1,0,BLACK-NECKED,SWAN,Turtleback_zoo
+B,No,No,1.0.0,1,0,0,DIAMONDBACK,TERRAPIN,Turtleback_zoo
+B,No,No,1.1.0,1,1,0,WHITE-CRESTED LAUGHING,THRUSH,Turtleback_zoo
+A,No,No,0.0.2,0,0,2,GIANT MARINE,TOAD,Turtleback_zoo
+R,No,No,2.0.0,2,0,0,AFRICAN PANCAKE,TORTOISE,Turtleback_zoo
+R,No,No,2.1.0,2,1,0,ALDABRA,TORTOISE,Turtleback_zoo
+R,No,No,2.0.0,2,0,0,ASIAN BROWN,TORTOISE,Turtleback_zoo
+R,No,No,0.0.1,0,0,1,BELL'S HINGEBACK,TORTOISE,Turtleback_zoo
+R,No,No,1.1.0,1,1,0,CENTRAL ASIAN,TORTOISE,Turtleback_zoo
+R,No,No,0.0.3,0,0,3,ELONGATED,TORTOISE,Turtleback_zoo
+R,No,No,1.0.0,1,0,0,GALAPAGOS,TORTOISE,Turtleback_zoo
+R,No,No,1.0.0,1,0,0,LEOPARD,TORTOISE,Turtleback_zoo
+R,No,No,0.1.0,0,1,0,SOUTH AMERICAN RED-FOOTED,TORTOISE,Turtleback_zoo
+R,No,No,1.1.0,1,1,0,STAR,TORTOISE,Turtleback_zoo
+B,No,No,1.2.0,1,2,0,SATYR,TRAGOPAN,Turtleback_zoo
+R,No,No,1.0.0,1,0,0,AMERICAN RED-BELLIED,TURTLE,Turtleback_zoo
+R,No,No,2.5.0,2,5,0,EASTERN BOX,TURTLE,Turtleback_zoo
+R,No,No,2.1.2,2,1,2,EASTERN PAINTED,TURTLE,Turtleback_zoo
+R,No,No,0.1.0,0,1,0,FLORIDA RIVER COOTER,TURTLE,Turtleback_zoo
+R,No,No,2.2.0,2,2,0,RED-EARED SLIDER,TURTLE,Turtleback_zoo
+R,No,No,2.0.0,2,0,0,SPINY HILL,TURTLE,Turtleback_zoo
+M,No,No,5.6.0,5,6,0,RED-NECKED,WALLABY,Turtleback_zoo
+M,No,Yes,3.0.0,3,0,0,GREY,WOLF,Turtleback_zoo
