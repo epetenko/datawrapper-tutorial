@@ -7,15 +7,15 @@ We use Datawrapper to create charts all the time at NJAM. But it can be difficul
 
 ## Links:
 
-[Part 0: Excel training](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_0.md)
+[Part 1: Excel training](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_0.md)
 
-[Part 0 data](https://github.com/epetenko/datawrapper-tutorial/blob/master/Zoo_Total.csv)
+[Part 1 data](https://github.com/epetenko/datawrapper-tutorial/blob/master/Zoo_Total.csv)
 
-[Part 1: Basic chart](https://github.com/epetenko/datawrapper-tutorial)
+[Part 2: Basic chart](https://github.com/epetenko/datawrapper-tutorial)
 
-[Part 1 data](https://raw.githubusercontent.com/epetenko/datawrapper-tutorial/master/Zoodata.csv)
+[Part 2 data](https://raw.githubusercontent.com/epetenko/datawrapper-tutorial/master/Datawrapper_zoo_data.csv)
 
-[Part 2: Mapping](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_2.md)
+[Part 3: Mapping](https://github.com/epetenko/datawrapper-tutorial/blob/master/Part_2.md)
 
 
 
